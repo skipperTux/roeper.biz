@@ -8,8 +8,9 @@ relative_permalinks: true
 title:               "ChristophRoeper(roeper.biz) {}"
 tagline:             Seitenuntertitel
 url:                 http://roeper.biz
-paginate:            5
+paginate:            2
 baseurl:             ""
+fullcontacts:        false
 
 # Assets
 #
