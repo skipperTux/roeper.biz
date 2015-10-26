@@ -3,22 +3,22 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
+<section>
   {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-    {{ post.content }}
-  </article>
+    <article>
+      <header>
+        <h1>{{ post.title }}</h1>
+        0 comments, <time pubdate datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+      </header>
+      {{ post.content }}
+      <div class="read-more">
+        <span>end preview, <a href="#">read more</a></span>
+      </div>
+    </article>  
   {% endfor %}
-</div>
+</section>
 
+<!-- Pagination schick machen-->
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
