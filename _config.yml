@@ -1,0 +1,42 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               "ChristophRoeper(roeper.biz) {}"
+tagline:             Seitenuntertitel
+url:                 http://roeper.biz
+paginate:            5
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Christoph Roeper
+  email:             info@roeper.biz
+  phone:             "+49 241 9904183"
+  fax:               "032 121216365"
+  twitter:           https://twitter.com/skipperTux
+  github:            https://github.com/skipperTux
+  stackoverflow:     http://stackoverflow.com/users/498352/skippertux?tab=profile
+  linkedin:          https://de.linkedin.com/in/roeperdotbiz>
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+# Polyglot
+#
+# We specify the used languages so we can use Polyglot to localize
+languages: ["de", "en"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css"]
