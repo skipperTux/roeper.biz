@@ -27,8 +27,41 @@
 // @import "pagination";
 // @import "message";
 
-$font-stack: courier, monospace;
+$font-stack: Inconsolata, courier, monospace;
 $font-size-base: 13px;
+
+/* grid stuff */
+
+@mixin col($column-count) {
+	display: inline-block;
+	float: left;
+	width: (100% / (12 / $column-count));
+}
+
+// body as wrapper
+
+body {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+// actual column classes
+
+.col-12 {
+	@include col(12);
+}
+
+.col-8 {
+	@include col(8);
+}
+
+.col-6 {
+	@include col(6);
+}
+
+.col-4 {
+	@include col(4);
+}
 
 /* set body font-sizes in media queries, boom, font-scaling done! */
 
