@@ -1,7 +1,16 @@
 ---
 layout: default
 ---
-
+<article>
+  <header>
+    <h1>{{ page.title }}</h1>
+    0 comments, <time pubdate datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+  </header>
+  {{ content }}
+  <div class="read-more">
+    <span><a href="#">Back</a></span>
+  </div>
+</article>
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
