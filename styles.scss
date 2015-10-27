@@ -33,9 +33,8 @@ $font-size-base: 13px;
 /* grid stuff */
 
 @mixin col($column-count) {
-	display: inline-block;
-	float: left;
 	width: (100% / (12 / $column-count));
+	display: block;
 }
 
 // body as wrapper
@@ -43,6 +42,7 @@ $font-size-base: 13px;
 body {
 	max-width: 960px;
 	margin: 0 auto;
+	padding-top: 2em;
 }
 
 // actual column classes
@@ -63,6 +63,16 @@ body {
 	@include col(4);
 }
 
+.col-4, .col-6, .col-8, .col-12 {
+	@media screen AND (max-width: 959px) {
+		width: 100%;
+	}
+	@media screen AND (min-width: 960px) {
+		display: inline-block;
+		float: left;
+	}
+}
+
 /* set body font-sizes in media queries, boom, font-scaling done! */
 
 body {
@@ -72,15 +82,43 @@ body {
 }
 
 aside {
-	white-space: pre;
+
+	.pre {
+		white-space: pre;
+	}
+
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+
+		&:before {
+			content: "\0000a0\0000a0\0000a0";
+		}
+	}
+
+	li {
+		display: inline-block;
+
+		&:after {
+			content: "\0000a0";
+		}
+	}
+
+	// li:before {
+	// 	content: "\0000a0\0000a0\0000a0\0000a0";
+	// }
 }
 
 article {
-	width: 80ch;
-	margin: 1.5em 0;
+	margin: 0 0 1.5em 0;
 	
 	p {
 		margin-top: 0.4em;
+	}
+
+	@media screen AND (min-width: 960px) {
+		width: 80ch;
 	}
 }
 
@@ -99,12 +137,12 @@ article {
 	
 	span:before {
 		content: "----------------------------\00a0";
-		margin-left: -100%;
+		margin-left: -50%;
 	}
 
 	span:after {
 		content: "\00a0----------------------------";
-		margin-right: -100%;
+		margin-right: -50%;
 	}
 
 	span:before, span:after {
@@ -114,5 +152,10 @@ article {
 
 h1 {
 	font-size: 1.5em;
+	margin-top: 0;
 	margin-bottom: 0.5em;
+
+	a:link, a:visited {
+		color: inherit;
+	}
 }
