@@ -4,6 +4,18 @@
 permalink:           pretty
 relative_permalinks: true
 
+# Localization
+#
+# Strings for Localization
+
+contact:
+  de: "Kontakt"
+  en: "Contact"
+
+imprint:
+  de: "Impressum"
+  en: "Imprint"
+
 # Setup
 title:               "ChristophRoeper(roeper.biz) {}"
 tagline:             Seitenuntertitel
@@ -41,3 +53,4 @@ github:
 languages: ["de", "en"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
+
