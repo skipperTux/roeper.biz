@@ -40,6 +40,7 @@ $font-size-base: 13px;
 // body as wrapper
 
 body {
+	width: 80%;
 	max-width: 960px;
 	margin: 0 auto;
 	padding-top: 2em;
@@ -123,7 +124,9 @@ article {
 }
 
 .read-more {
-	width: 80ch;
+	@media screen AND (min-width: 960px) {
+		width: 80ch;
+	}
 	white-space: nowrap;
 	overflow: hidden;
 	text-align: center;
