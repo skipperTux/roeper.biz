@@ -32,8 +32,10 @@ $font-size-base: 13px;
 
 /* grid stuff */
 
+$totalcolumns: 12;
+
 @mixin col($column-count) {
-	width: (100% / (12 / $column-count));
+	width: (100% / ($totalcolumns / $column-count));
 	display: block;
 }
 
