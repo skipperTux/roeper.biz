@@ -16,9 +16,9 @@ imprint:
   de: "Impressum"
   en: "Imprint"
 
-phone:
-  de: "Telefonnummer"
-  en: "Phone Number"
+back:
+  de: "Zurück zur Hauptseite"
+  en: "back to front page"
 
 # Setup
 title:               "ChristophRoeper(roeper.biz) {}"
