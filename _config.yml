@@ -16,13 +16,16 @@ imprint:
   de: "Impressum"
   en: "Imprint"
 
+phone:
+  de: "Telefonnummer"
+  en: "Phone Number"
+
 # Setup
 title:               "ChristophRoeper(roeper.biz) {}"
 tagline:             Seitenuntertitel
 url:                 http://roeper.biz
 paginate:            2
 baseurl:             ""
-fullcontacts:        false
 
 # Assets
 #
@@ -40,7 +43,11 @@ author:
   twitter:           https://twitter.com/skipperTux
   github:            https://github.com/skipperTux
   stackoverflow:     http://stackoverflow.com/users/498352/skippertux?tab=profile
-  linkedin:          https://de.linkedin.com/in/roeperdotbiz>
+  linkedin:          https://de.linkedin.com/in/roeperdotbiz
+  vat:               "DE 174675273"
+  street:            "Augustastr. 5"
+  zip:               52070
+  city:              "Aachen"
 
 # Custom vars
 version:             2.0.0
