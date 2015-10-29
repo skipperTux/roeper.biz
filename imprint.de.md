@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Imprint
+layout: page
+title: Impressum
 permalink: imprint/
 lang: de
 ---
