@@ -7,7 +7,6 @@
 
       <div class="col-4">
         {% include sidebar.html %}
-        <a href="/{% if site.active_lang != "en" %}{{ site.active_lang }}/{% endif %}">{{ site.back[site.active_lang] }}</a>
       </div>
       <main class="col-8">
     	{{ content }}
