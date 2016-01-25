@@ -22,6 +22,14 @@ contact:
 imprint:
   de: "Impressum"
   en: "Imprint"
+  
+services:
+  de: "Dienstelistungen"
+  en: "Services"
+
+about:
+  de: "Über Mich"
+  en: "About Me"
 
 feed:
   de: "Web-Feed"
