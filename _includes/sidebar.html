@@ -9,10 +9,7 @@
     schulung</b>{% endif %}
 
     
-    Augustastr. 5
-    52070 Aachen
-    {% if site.active_lang == "en" %}Germany{% endif %}
-    
+    <a href="mailto:{{ site.author["email"] }}">{{ site.author["email"] }}</a>
     {% if site.active_lang == "en" %}P{% else %}T{% endif %}  {{ site.author["phone"] }}</pre>
 <ul>
     {% for lang in site.languages %}
@@ -26,6 +23,10 @@
         <li><a href="{{ site.baseurl }}{% if site.active_lang != "en" %}/{{ site.active_lang }}{% endif %}/contact/">{{ site.contact[site.active_lang] }}</a></li>
         <li><a href="{{ site.baseurl }}{% if site.active_lang != "en" %}/{{ site.active_lang }}{% endif %}/imprint/">{{ site.imprint[site.active_lang] }}</a></li>
         <li><a href="{{ site.baseurl }}{% if site.active_lang != "en" %}/{{ site.active_lang }}{% endif %}/atom.xml">{{ site.feed[site.active_lang] }}</a></li>
+    </ul>
+    <ul>
+        <li><a href="{{ site.baseurl }}{% if site.active_lang != "en" %}/{{ site.active_lang }}{% endif %}/services/">{{ site.services[site.active_lang] }}</a></li>
+        <li><a href="{{ site.baseurl }}{% if site.active_lang != "en" %}/{{ site.active_lang }}{% endif %}/about/">{{ site.about[site.active_lang] }}</a></li>
     </ul>
 </nav>
 }

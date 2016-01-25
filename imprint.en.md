@@ -5,4 +5,9 @@ permalink: imprint/
 lang: en
 ---
 
-Imprint Information here
+{{ site.author["name"] }}
+
+{{ site.author["street"] }}<br>
+{{ site.author["zip"] }} {{ site.author["city"] }}<br>
+
+VAT: {{ site.author["vat"] }}

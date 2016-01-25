@@ -5,4 +5,11 @@ permalink: imprint/
 lang: de
 ---
 
-Impressum hier
+Inhaltlich verantwortlich:
+
+{{ site.author["name"] }}
+
+{{ site.author["street"] }}<br>
+{{ site.author["zip"] }} {{ site.author["city"] }}<br>
+
+Steuernummer: {{ site.author["vat"] }}
