@@ -11,11 +11,6 @@ layout: default
     <span><a href="#">Back</a></span>
   </div>
 </article>
-<article class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
-  {{ content }}
-</article>
 
 {% if site.related_posts != empty %}
 <aside class="related">
