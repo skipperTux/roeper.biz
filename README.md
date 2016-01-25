@@ -2,7 +2,6 @@
 website for christoph roeper
 
 ## Dependencies
-Just `jekyll 3.X`!
-(`jekyll-polyglot` is integrated as a jekyll plugin)
+`jekyll 3.X`
 ## Build Instructions
 `jekyll build`
