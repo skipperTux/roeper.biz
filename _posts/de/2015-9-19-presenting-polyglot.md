@@ -5,7 +5,7 @@ lang: de
 ---
 
 Nach monatelanger Arbeit und Raffinesse, ich bin stolz darauf, **Polyglot** präsentieren: eine i18n-Plugin für [Jekyll](http://jekyllrb.com) Websites, die *Notwendigkeit*, ihre Inhalte in mehrere Sprachen und Zielgruppen gerecht zu werden.
-
+<!-- more -->
 ### Eigenschaften
 
 Zwar gibt es andere Multi-Language-Plugins für Jekyll ist Polyglot Besonderes. Polyglot kümmert sich um den typischen Unsinn in der Regel an die Entwickler verlassen zu verwalten (wie Gerangel URLs und konsistente Sitemaps) und bietet effiziente und einfache Werkzeuge Jekyll-Entwickler können in SEO und Eilverfahren Content-Aggregation zu nutzen.
