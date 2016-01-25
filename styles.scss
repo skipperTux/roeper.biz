@@ -20,6 +20,7 @@
  @import "base";
 // @import "type";
  @import "syntax";
+ @import "font";
  @import "code";
 // @import "layout";
 // @import "masthead";
@@ -27,7 +28,7 @@
 // @import "pagination";
 // @import "message";
 
-$font-stack: Inconsolata, courier, monospace;
+$font-stack: 'inconsolatamedium', monospace;
 $font-size-base: 13px;
 
 /* grid stuff */
