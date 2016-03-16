@@ -11,3 +11,5 @@ lang: en
 {{ site.author["zip"] }} {{ site.author["city"] }}<br>
 
 VAT: {{ site.author["vat"] }}
+
+[AGB](/roeper.biz-AGB.pdf)

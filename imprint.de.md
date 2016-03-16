@@ -12,3 +12,5 @@ Inhaltlich verantwortlich:
 {{ site.author["zip"] }} {{ site.author["city"] }}<br>
 
 Steuernummer: {{ site.author["vat"] }}
+
+[AGB](/roeper.biz-AGB.pdf)
