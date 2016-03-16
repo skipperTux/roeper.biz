@@ -14,9 +14,6 @@ Adress
 Phone Number
 : {{ site.author["phone"] }}
 
-Fax
-: {{ site.author["fax"] }}
-
 E-Mail Adress
 : {{ site.author["email"] }}
 

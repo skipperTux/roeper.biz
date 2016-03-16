@@ -24,7 +24,7 @@ imprint:
   en: "Imprint"
   
 services:
-  de: "Dienstelistungen"
+  de: "Dienstleistungen"
   en: "Services"
 
 about:
@@ -36,14 +36,14 @@ feed:
   en: "Web feed"
 
 back:
-  de: "Zurück zur Hauptseite"
-  en: "back to front page"
+  de: "&laquo; Zurück zur Hauptseite"
+  en: "&laquo; Back to front page"
 
 # Setup
 title:               "ChristophRoeper(roeper.biz) {}"
 tagline:             Seitenuntertitel
 url:                 http://roeper.biz
-paginate:            2
+paginate:            5
 baseurl:             ""
 
 # Assets

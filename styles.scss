@@ -29,7 +29,7 @@
 // @import "message";
 
 $font-stack: 'inconsolatamedium', monospace;
-$font-size-base: 13px;
+$font-size-base: 14px;
 
 /* grid stuff */
 
@@ -47,6 +47,7 @@ body {
 	max-width: 960px;
 	margin: 0 auto;
 	padding-top: 2em;
+	padding-bottom: 2em;
 }
 
 // actual column classes
@@ -87,7 +88,7 @@ body {
 
 aside {
 
-	margin-bottom: 2em;
+	margin-bottom: 1em;
 
 	.pre {
 		white-space: pre;
@@ -176,3 +177,17 @@ dd {
 	margin-left: 0;
 	margin-bottom: 1em;
 }
+
+nav ul li {
+	display: block;
+}
+
+footer {
+	clear: both;
+	min-height: 4em;
+}
+
+.pagination {
+	margin-bottom: 2em;
+}
+
