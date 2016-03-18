@@ -8,14 +8,31 @@ lang: en
 Name
 : {{ site.author["name"] }}
 
-Adress
-: {{ site.author["street"] }}<br/>{{ site.author["zip"] }} {{ site.author["city"] }}<br/>Germany
+Address
+: {{ site.author["street"] }}  
+{{ site.author["zip"] }} {{ site.author["city"] }}  
+{{ site.author.country[site.active_lang] }}
 
-Phone Number
+Position (WGS84)
+: [{{ site.author["positionName" }}]({{ site.author["position"] }}){:target="_blank"}
+
+Phone
 : {{ site.author["phone"] }}
 
-E-Mail Adress
-: {{ site.author["email"] }}
+Email
+: <a href="mailto:{{ site.author["email"] }}">{{ site.author["email"] }}</a>
 
-VAT
-: {{ site.author["vat"] }}
+Web
+: [{{ site.author["web" }}]({{ site.url }})
+
+LinkedIn
+: [{{ site.author["company" }}]({{ site.author["linkedin"] }}){:target="_blank"}
+
+Twitter
+: [{{ site.author["twitterName"] }}]({{ site.author["twitter"] }}){:target="_blank"}
+
+GitHub
+: [{{ site.author["githubName"] }}]({{ site.author["github"] }}){:target="_blank"}
+
+stackOverflow
+: [{{ site.author["stackOverflowName"] }}]({{ site.author["stackOverflow"] }}){:target="_blank"}

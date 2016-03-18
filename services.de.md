@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dienstleistungen
+title: Leistungen
 permalink: services/
 lang: de
 ---

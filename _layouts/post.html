@@ -4,7 +4,7 @@ layout: default
 <article>
   <header>
     <h1>{{ page.title }}</h1>
-    0 comments, <time pubdate datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+    <time pubdate datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
   </header>
   {{ content }}
   <div class="read-more">

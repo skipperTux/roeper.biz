@@ -15,22 +15,22 @@ gems:
 #
 # Strings for Localization
 
-contact:
-  de: "Kontakt"
-  en: "Contact"
-
-imprint:
-  de: "Impressum"
-  en: "Imprint"
-  
 services:
-  de: "Dienstleistungen"
-  en: "Services"
+  de: "leistungen"
+  en: "services"
 
 about:
-  de: "Über Mich"
-  en: "About Me"
+  de: "über mich"
+  en: "about me"
 
+contact:
+  de: "kontakt"
+  en: "contact"
+
+legal:
+  de: "impressum"
+  en: "legal notice"
+  
 feed:
   de: "Web-Feed"
   en: "Web feed"
@@ -41,8 +41,8 @@ back:
 
 # Setup
 title:               "ChristophRoeper(roeper.biz) {}"
-tagline:             Seitenuntertitel
-url:                 http://roeper.biz
+tagline:             vCard/Blog
+url:                 http://roeper.biz/
 paginate:            5
 baseurl:             ""
 
@@ -55,18 +55,27 @@ sass:
 
 # About/contact
 author:
-  name:              Christoph Roeper
-  email:             info@roeper.biz
+  name:              Christoph W. Roeper
+  company:           Christoph Roeper - roeper.biz           
   phone:             "+49 241 9904183"
-  fax:               "032 121216365"
+  email:             info@roeper.biz
+  web:               www.roeper.biz
   twitter:           https://twitter.com/skipperTux
+  twitterName:       "skipperTux"
   github:            https://github.com/skipperTux
-  stackoverflow:     http://stackoverflow.com/users/498352/skippertux?tab=profile
+  githubName:        "skipperTux"
+  stackOverflow:     https://stackoverflow.com/users/498352/skippertux?tab=profile
+  stackOverflowName: "skipperTux"
   linkedin:          https://de.linkedin.com/in/roeperdotbiz
-  vat:               "DE 174675273"
+  vat-id:            "DE174675273"
   street:            "Augustastr. 5"
   zip:               52070
   city:              "Aachen"
+  country:
+    de:              "Deutschland"
+    en:              "Germany"
+  position:          https://www.openstreetmap.org/?mlat=50.77295&mlon=6.09684
+  positionName:      "50° 46.377' N  006° 05.810' E"    
 
 # Custom vars
 version:             2.0.0
@@ -80,3 +89,4 @@ languages: ["de", "en"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
 
+exclude: [README.md, Gemfile, Gemfile.lock]
