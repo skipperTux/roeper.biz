@@ -1,15 +1,30 @@
-# contact
-author:
-  position:        https://www.openstreetmap.org/?mlat=50.77295&mlon=6.09684
-  linkedIn:        https://de.linkedin.com/in/roeperdotbiz
-  blog:            http://howdidyoudothat.net/
-  twitter:         https://twitter.com/skipperTux
-  stackOverflow:   https://stackoverflow.com/users/498352/skippertux?tab=profile
-  gitHub:          https://github.com/skipperTux
+# blog
+blog:
+# generic
+  sap:                   http://www.sap.com/
+# Hello, World!
+  googleSmartGlasses:    https://developers.google.com/glass/distribute/glass-at-work  
+  helloWorld:            http://www.roesler-ac.de/wolfram/hello.htm  
+  jekyll:                http://jekyllrb.com/  
+  jekyll-poole:          http://getpoole.com/
+  jekyll-polyglot:       http://untra.github.io/polyglot/
+  cnx:                   http://cnx.de/
+  texterei:              http://www.texterei.net/
+  svenStrasenLinkedIn:   https://de.linkedin.com/in/pd-dr-sven-strasen-427a4b4a
 
 # legal
 creativeCommonsLicense: 
   de:              https://creativecommons.org/licenses/by/4.0/deed.de
   en:              https://creativecommons.org/licenses/by/4.0/
+germanTMG:         http://www.gesetze-im-internet.de/tmg/__5.html
 
-germanTMG:               http://www.gesetze-im-internet.de/tmg/__5.html
+# contact
+author:
+  position:        https://www.openstreetmap.org/?mlat=50.77295&mlon=6.09684
+  blog:            http://howdidyoudothat.net/
+  linkedIn:
+    de:            https://www.linkedin.com/in/roeperdotbiz/de
+    en:            https://www.linkedin.com/in/roeperdotbiz
+  twitter:         https://twitter.com/skipperTux
+  stackOverflow:   https://stackoverflow.com/users/498352/skippertux?tab=profile
+  gitHub:          https://github.com/skipperTux

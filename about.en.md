@@ -13,4 +13,4 @@ I came into home-computing back in 1983 and started learning BASIC, Z80-Assemble
 
 I also have a strong background managing Software Projects and Development Teams, whether it is individual development or standard off-the-shelf software. My professional experience includes business software like enterprise resource planning (ERP), warehouse/logistics (WMS), document management (DMS) and customer relationship management (CRM).
 
-See my full profile on [LinkedIn]({{ site.data.links.author["linkedIn"] }}){:target="_blank"} or see if I can help you on [services](/services).
+See my full profile on [LinkedIn]({{ site.data.links.author.linkedIn[site.active_lang] }}){:target="_blank"} or see if I can help you on [services](/services).
