@@ -31,8 +31,8 @@ LinkedIn
 Twitter
 : [{{ site.author["twitterName"] }}]({{ site.author["twitter"] }}){:target="_blank"}
 
-GitHub
-: [{{ site.author["githubName"] }}]({{ site.author["github"] }}){:target="_blank"}
-
 stackOverflow
 : [{{ site.author["stackOverflowName"] }}]({{ site.author["stackOverflow"] }}){:target="_blank"}
+
+GitHub
+: [{{ site.author["githubName"] }}]({{ site.author["github"] }}){:target="_blank"}

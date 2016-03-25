@@ -53,7 +53,7 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
-# About/contact
+# About me / Contact
 author:
   name:              Christoph W. Roeper
   company:           Christoph Roeper - roeper.biz           
@@ -75,7 +75,7 @@ author:
     de:              "Deutschland"
     en:              "Germany"
   position:          https://www.openstreetmap.org/?mlat=50.77295&mlon=6.09684
-  positionName:      "50° 46.377' N  006° 05.810' E"    
+  positionName:      "50° 46.377' N 006° 05.810' E"    
 
 # Custom vars
 version:             2.0.0
@@ -89,4 +89,4 @@ languages: ["de", "en"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
 
-exclude: [README.md, Gemfile, Gemfile.lock]
+exclude: [README.md, Gemfile, Gemfile.lock, clean.sh]
