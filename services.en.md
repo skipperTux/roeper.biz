@@ -13,4 +13,4 @@ If you require an experienced, short-term team leader, because you either build 
 
 I am able to provide assistance in setting up physical or virtual Linux network or Microsoft Windows environments. Further areas on which I can offer help are the establishment of new or the migration of existing Microsoft Windows domains, Linux services or virtualization.
 
-I am best if I love what I am doing. So browse my [blog](http://howdidyoudothat.net/) and find out what bakes my noodle to see, if it matches your needs.
+I am best if I love what I am doing. So browse my [blog]({{ site.data.links.author["blog"] }}) and find out what bakes my noodle to see, if it matches your needs.

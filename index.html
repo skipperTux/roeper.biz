@@ -10,24 +10,29 @@ title: Home
         <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
         <time pubdate datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
       </header>
-      {{ post.content | split: '<!-- more -->' | first }}
-      <div class="read-more">
-        <span>end preview, <a href="{{ post.url }}">read more</a></span>
-      </div>
+      {% assign split_text = '<!-- more -->' %}
+      {{ post.content | split: split_text | first }}      
+      {% if post.content contains split_text %}
+        <div class="read-more">
+          <span>end preview, <a href="{{ post.url }}">read more</a></span>
+        </div>
+      {% endif %}
     </article>  
   {% endfor %}
 </section>
 
-<!-- Pagination schick machen-->
+<!-- Pagination -->
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
+    {% unless paginator.previous_page %}
+      <span class="pagination-item newer">Newer</span>
+    {% endunless %}
   {% endif %}
   {% if paginator.previous_page %}
+    {% unless paginator.next_page %}
+      <span class="pagination-item older">Older</span>
+    {% endunless %}
     <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>

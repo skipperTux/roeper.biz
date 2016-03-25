@@ -13,4 +13,4 @@ Flexibel aufgestellt, kann ich als befristetet arbeitender Entwickler oder aber 
 
 Ich helfe Ihnen, ein Linux-Netzwerk oder eine MS Windows-Umgebung aufzusetzen – gleich, ob physisch oder virtuell. Ebenso unterstütze ich Sie bei der Errichtung einer neuen oder der Migration einer bestehenden MS Windows-Domain, übernehme Linux-Dienstleistungen oder virtualisiere Ihre existierende IT-Infrastruktur.
 
-Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Blick in meinen [Blog](http://howdidyoudothat.net/), um zu erfahren, was mich begeistert.
+Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Blick in meinen [Blog]({{ site.data.links.author["blog"] }}), um zu erfahren, was mich begeistert.

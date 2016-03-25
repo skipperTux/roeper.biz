@@ -1,5 +1,15 @@
+# contact
+author:
+  position:        https://www.openstreetmap.org/?mlat=50.77295&mlon=6.09684
+  linkedIn:        https://de.linkedin.com/in/roeperdotbiz
+  blog:            http://howdidyoudothat.net/
+  twitter:         https://twitter.com/skipperTux
+  stackOverflow:   https://stackoverflow.com/users/498352/skippertux?tab=profile
+  gitHub:          https://github.com/skipperTux
+
 # legal
 creativeCommonsLicense: 
-  en: https://creativecommons.org/licenses/by-sa/4.0/
-  de: https://creativecommons.org/licenses/by-sa/4.0/deed.de
+  de:              https://creativecommons.org/licenses/by/4.0/deed.de
+  en:              https://creativecommons.org/licenses/by/4.0/
 
+germanTMG:               http://www.gesetze-im-internet.de/tmg/__5.html

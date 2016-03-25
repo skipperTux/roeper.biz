@@ -14,7 +14,7 @@ Anschrift
 {{ site.author.country[site.active_lang] }}
 
 Position (WGS84)
-: [{{ site.author["positionName" }}]({{ site.author["position"] }}){:target="_blank"}
+: [{{ site.author.position[site.active_lang] }}]({{ site.data.links.author["position"] }}){:target="_blank"}
 
 Telefon
 : {{ site.author["phone"] }}
@@ -26,13 +26,13 @@ Web
 : [{{ site.author["web" }}]({{ site.url }})
 
 LinkedIn
-: [{{ site.author["company" }}]({{ site.author["linkedin"] }}){:target="_blank"}
+: [{{ site.author["company" }}]({{ site.data.links.author["linkedIn"] }}){:target="_blank"}
 
 Twitter
-: [{{ site.author["twitterName"] }}]({{ site.author["twitter"] }}){:target="_blank"}
+: [{{ site.author["twitter"] }}]({{ site.data.links.author["twitter"] }}){:target="_blank"}
 
 stackOverflow
-: [{{ site.author["stackOverflowName"] }}]({{ site.author["stackOverflow"] }}){:target="_blank"}
+: [{{ site.author["stackOverflow"] }}]({{ site.data.links.author["stackOverflow"] }}){:target="_blank"}
 
 GitHub
-: [{{ site.author["githubName"] }}]({{ site.author["github"] }}){:target="_blank"}
+: [{{ site.author["gitHub"] }}]({{ site.data.links.author["gitHub"] }}){:target="_blank"}

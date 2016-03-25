@@ -43,7 +43,7 @@ back:
 title:               "ChristophRoeper(roeper.biz) {}"
 tagline:             vCard/Blog
 url:                 http://roeper.biz/
-paginate:            5
+paginate:            3
 baseurl:             ""
 
 # Assets
@@ -57,16 +57,6 @@ sass:
 author:
   name:              Christoph W. Roeper
   company:           Christoph Roeper - roeper.biz           
-  phone:             "+49 241 9904183"
-  email:             info@roeper.biz
-  web:               www.roeper.biz
-  twitter:           https://twitter.com/skipperTux
-  twitterName:       "skipperTux"
-  github:            https://github.com/skipperTux
-  githubName:        "skipperTux"
-  stackOverflow:     https://stackoverflow.com/users/498352/skippertux?tab=profile
-  stackOverflowName: "skipperTux"
-  linkedin:          https://de.linkedin.com/in/roeperdotbiz
   vat-id:            "DE174675273"
   street:            "Augustastr. 5"
   zip:               52070
@@ -74,8 +64,15 @@ author:
   country:
     de:              "Deutschland"
     en:              "Germany"
-  position:          https://www.openstreetmap.org/?mlat=50.77295&mlon=6.09684
-  positionName:      "50° 46.377' N 006° 05.810' E"    
+  position:
+    de:              "50° 46,377' N 006° 05,810' E"    
+    en:              "50° 46.377' N 006° 05.810' E"    
+  phone:             "+49 241 9904183"
+  email:             info@roeper.biz
+  web:               www.roeper.biz
+  twitter:           "skipperTux"
+  stackOverflow:     "skipperTux"
+  gitHub:            "skipperTux"
 
 # Custom vars
 version:             2.0.0
