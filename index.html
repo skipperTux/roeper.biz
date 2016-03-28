@@ -14,7 +14,7 @@ title: Home
       {{ post.content | split: split_text | first }}      
       {% if post.content contains split_text %}
         <div class="read-more">
-          <span>end preview, <a href="{{ post.url }}">read more</a></span>
+          <span><a href="{{ post.url }}">read more</a></span>
         </div>
       {% else %}
         <div class="read-more">
