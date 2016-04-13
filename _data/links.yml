@@ -16,7 +16,9 @@ blog:
 creativeCommonsLicense: 
   de:              https://creativecommons.org/licenses/by/4.0/deed.de
   en:              https://creativecommons.org/licenses/by/4.0/
-germanTMG:         http://www.gesetze-im-internet.de/tmg/__5.html
+germanTMG:         http://www.gesetze-im-internet.de/tmg/
+germanBDSG:        http://www.gesetze-im-internet.de/bdsg_1990/
+germanTMG2_5:      http://www.gesetze-im-internet.de/tmg/__5.html
 
 # contact
 author:
@@ -28,3 +30,6 @@ author:
   twitter:         https://twitter.com/skipperTux
   stackOverflow:   https://stackoverflow.com/users/498352/skippertux?tab=profile
   gitHub:          https://github.com/skipperTux
+
+# common
+webhoster-all-inkl:      https://all-inkl.com/

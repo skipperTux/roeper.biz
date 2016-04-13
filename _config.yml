@@ -30,6 +30,10 @@ contact:
 legal:
   de: "impressum"
   en: "legal notice"
+
+privacy:
+  de: "datenschutz"
+  en: "privacy policy"
   
 feed:
   de: "Web-Feed"

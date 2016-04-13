@@ -27,6 +27,9 @@
         <li><a href="{{ site.baseurl }}{% if site.active_lang != "en" %}/{{ site.active_lang }}{% endif %}/about/">{{ site.about[site.active_lang] }}</a></li>
         <li><a href="{{ site.baseurl }}{% if site.active_lang != "en" %}/{{ site.active_lang }}{% endif %}/contact/">{{ site.contact[site.active_lang] }}</a></li>
         <li><a href="{{ site.baseurl }}{% if site.active_lang != "en" %}/{{ site.active_lang }}{% endif %}/legal/">{{ site.legal[site.active_lang] }}</a></li>
+        {% if site.active_lang == "de" %} 
+          <li><a href="{{ site.baseurl }}/{{ site.active_lang }}/privacy/">{{ site.privacy[site.active_lang] }}</a></li>
+        {% endif %}
         <!-- <li><a href="{{ site.baseurl }}{% if site.active_lang != "en" %}/{{ site.active_lang }}{% endif %}/atom.xml">{{ site.feed[site.active_lang] }}</a></li> -->
     </ul>
 </nav>
