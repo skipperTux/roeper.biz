@@ -30,7 +30,6 @@ Deutschland
 
 Geltungsraum der Versicherung: weltweit (USA und Kanada nur Vermögensschäden)
 
-
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
 {{ site.author["name"] }}  
@@ -47,7 +46,7 @@ Linux ist ein eingetragenes Warenzeichen von Linus Torvalds. Microsoft und Windo
 
 ### Lizenz
 
-Falls nicht anders angegeben sind Artikel und Veröffentlichungen lizenziert unter einer [Creative Commons Namensnennung 4.0 International Lizenz]({{ site.data.links.creativeCommonsLicense[site.active_lang] }}){:target="_blank"}, und Source Code ist lizenziert unter einer [BSD-new License (3-clause BSD)](/license).
+Falls nicht anders angegeben, sind Artikel und Veröffentlichungen lizenziert unter einer [Creative Commons Namensnennung 4.0 International Lizenz]({{ site.data.links.creativeCommonsLicense[site.active_lang] }}){:target="_blank"}, und Source Code ist lizenziert unter einer [BSD-new License (3-clause BSD)](/license).
 
 ### Allgemeine Geschäftsbedingungen
 
