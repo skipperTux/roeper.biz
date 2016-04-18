@@ -5,9 +5,9 @@ permalink: legal/
 lang: en
 ---
 
-German websites must provide information under [§ 5 of the Telemediengesetz]({{ site.data.links["germanTMG2_5"] }}){:target="_blank"} (German Telemedia Act). For detailed information see [Impressum](/de/legal) (German only).
+German websites must provide information under [§ 5 of the _Telemediengesetz_]({{ site.data.links["germanTMG2_5"] }}){:target="_blank"} (German Telemedia Act). For detailed information see [_Impressum_](/de/legal) (German only).
 
-This website can be used without providing any personal information. For more information see [Datenschutz](/de/privacy) (German only).
+This website can be used without providing any personal information. For more information see [_Datenschutz_](/de/privacy) (German only).
 
 ### License
 
