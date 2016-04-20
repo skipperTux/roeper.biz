@@ -46,8 +46,8 @@ back:
 # Setup
 title:               "ChristophRoeper(roeper.biz) {}"
 tagline:             vCard/Blog
-url:                 http://roeper.biz/
 paginate:            3
+url:                 http://roeper.biz/
 baseurl:             ""
 
 # Assets
