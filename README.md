@@ -1,4 +1,4 @@
-# roeperbiz
+# roeper.biz
 website for christoph roeper
 
 ## Dependencies
