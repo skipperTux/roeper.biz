@@ -23,10 +23,10 @@ E-Mail
 : <a href="mailto:{{ site.author["email"] }}">{{ site.author["email"] }}</a>
 
 Web
-: [{{ site.author["web" }}]({{ site.data.links.author.home[site.active_lang] }})
+: [{{ site.author["web"] }}]({{ site.data.links.author.home[site.active_lang] }})
 
 LinkedIn
-: [{{ site.author["company" }}]({{ site.data.links.author.linkedIn[site.active_lang] }}){:target="_blank"}
+: [{{ site.author["company"] }}]({{ site.data.links.author.linkedIn[site.active_lang] }}){:target="_blank"}
 
 Twitter
 : [{{ site.author["twitter"] }}]({{ site.data.links.author["twitter"] }}){:target="_blank"}
