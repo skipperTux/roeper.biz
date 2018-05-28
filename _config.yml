@@ -7,7 +7,7 @@ permalink:           pretty
 #
 # Including the gem for pagination
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
@@ -47,7 +47,7 @@ back:
 title:               "ChristophRoeper(roeper.biz) {}"
 tagline:             vCard/Blog
 paginate:            3
-url:                 http://roeper.biz/
+url:                 https://roeper.biz/
 baseurl:             ""
 
 # Assets
@@ -90,4 +90,4 @@ languages: ["de", "en"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
 
-exclude: [README.md, Gemfile, Gemfile.lock, clean.sh]
+exclude: [README.md, Gemfile, Gemfile.lock, build.sh, clean.sh]
