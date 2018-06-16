@@ -1,6 +1,6 @@
 #!/bin/bash
 
 bundle update
-jekyll clean
+bundle exec jekyll clean
 ( ./clean.sh )
-jekyll build
+bundle exec jekyll build

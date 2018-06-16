@@ -90,4 +90,14 @@ languages: ["de", "en"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
 
-exclude: [README.md, Gemfile, Gemfile.lock, build.sh, clean.sh]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - build.sh
+  - clean.sh
+  - README.md
