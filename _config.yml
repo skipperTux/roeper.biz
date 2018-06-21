@@ -62,7 +62,7 @@ author:
   name:              Christoph Roeper
   full_name:         Christoph W. Roeper
   company:           Christoph Roeper - roeper.biz
-  vat-id:            "DE174675273"
+  vat_id:            "DE174675273"
   street:            "Augustastr. 5"
   zip:               52070
   city:              "Aachen"
