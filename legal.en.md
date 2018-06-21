@@ -7,7 +7,7 @@ lang: en
 
 German websites must provide information under [§ 5 of the _Telemediengesetz_]({{ site.data.links["germanTMG2_5"] }}){:target="_blank"} (German Telemedia Act). For detailed information see [_Impressum_](/de/legal) (German only).
 
-This website can be used without providing any personal information. For more information see [_Datenschutz_](/de/privacy) (German only).
+European websites need to comply to the [_General Data Protection Regulation_]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} (GDPR). For more information see [_Datenschutzerklärung_](/de/privacy) (German only).
 
 ### License
 

@@ -3,9 +3,9 @@ blog:
 # generic
   sap:                   http://www.sap.com/
 # Hello, World!
-  googleSmartGlasses:    https://developers.google.com/glass/distribute/glass-at-work  
-  helloWorld:            http://helloworldcollection.de/  
-  jekyll:                http://jekyllrb.com/  
+  googleSmartGlasses:    https://developers.google.com/glass/distribute/glass-at-work
+  helloWorld:            http://helloworldcollection.de/
+  jekyll:                http://jekyllrb.com/
   jekyll-poole:          http://getpoole.com/
   jekyll-polyglot:       http://polyglot.untra.io/
   cnx:                   http://cnx.de/
@@ -13,16 +13,22 @@ blog:
   svenStrasenLinkedIn:   https://de.linkedin.com/in/pd-dr-sven-strasen-427a4b4a
 
 # legal
-creativeCommonsLicense: 
+creativeCommonsLicense:
   de:                    https://creativecommons.org/licenses/by/4.0/deed.de
   en:                    https://creativecommons.org/licenses/by/4.0/
+gdpr:
+  de:                    https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02016R0679-20160504
+  en:                    https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0679-20160504
 germanTMG:               http://www.gesetze-im-internet.de/tmg/
 germanBDSG:              http://www.gesetze-im-internet.de/bdsg_1990/
 germanTMG2_5:            http://www.gesetze-im-internet.de/tmg/__5.html
+googlePrivacyPolicy:     https://policies.google.com/privacy
+googleWebFontsFAQ:       https://developers.google.com/fonts/faq
+heiseShariff:            https://www.heise.de/ct/ausgabe/2014-26-Social-Media-Buttons-datenschutzkonform-nutzen-2463330.html
 
 # contact
 author:
-  home:                 
+  home:
     de:                  http://roeper.biz/de/
     en:                  http://roeper.biz/
   position:              https://www.openstreetmap.org/?mlat=50.77295&mlon=6.09684
