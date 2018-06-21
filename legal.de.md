@@ -9,11 +9,11 @@ lang: de
 
 {{ site.author["company"] }}
 
-{{ site.author["name"] }}
-{{ site.author["street"] }}
+{{ site.author["name"] }}<br/>
+{{ site.author["street"] }}<br/>
 {{ site.author["zip"] }} {{ site.author["city"] }}
 
-Telefon: {{ site.author["phone"] }}
+Telefon: {{ site.author["phone"] }}<br/>
 E-Mail: {{ site.author["email"] }}
 
 ### Umsatzsteuer-IdNr
@@ -22,18 +22,18 @@ Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: {{ site.au
 
 ### Angaben zur Berufshaftpflichtversicherung
 
-Hiscox Europe Underwriting Ltd
-Zweigniederlassung für die Bundesrepublik Deutschland
-Arnulfstraße 31
-80636 München
+Hiscox Europe Underwriting Ltd<br/>
+Zweigniederlassung für die Bundesrepublik Deutschland<br/>
+Arnulfstraße 31<br/>
+80636 München<br/>
 Deutschland
 
 Geltungsraum der Versicherung: weltweit (USA und Kanada nur Vermögensschäden)
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
-{{ site.author["name"] }}
-{{ site.author["street"] }}
+{{ site.author["name"] }}<br/>
+{{ site.author["street"] }}<br/>
 {{ site.author["zip"] }} {{ site.author["city"] }}
 
 ### Haftungsausschluss
