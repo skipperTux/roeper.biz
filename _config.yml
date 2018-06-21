@@ -34,7 +34,7 @@ legal:
 privacy:
   de: "datenschutz"
   en: "privacy policy"
-  
+
 feed:
   de: "Web-Feed"
   en: "Web feed"
@@ -60,7 +60,7 @@ sass:
 # About me / Contact
 author:
   name:              Christoph W. Roeper
-  company:           Christoph Roeper - roeper.biz           
+  company:           Christoph Roeper - roeper.biz
   vat-id:            "DE174675273"
   street:            "Augustastr. 5"
   zip:               52070
@@ -69,8 +69,8 @@ author:
     de:              "Deutschland"
     en:              "Germany"
   position:
-    de:              "50° 46,377' N 006° 05,810' E"    
-    en:              "50° 46.377' N 006° 05.810' E"    
+    de:              "50° 46,377' N 006° 05,810' E"
+    en:              "50° 46.377' N 006° 05.810' E"
   phone:             "+49 241 9904183"
   email:             info@roeper.biz
   web:               www.roeper.biz
@@ -100,4 +100,5 @@ exclude:
   - vendor/ruby/
   - build.sh
   - clean.sh
+  - serve.sh
   - README.md
