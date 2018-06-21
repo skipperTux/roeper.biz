@@ -6,11 +6,11 @@ lang: en
 ---
 
 Name
-: {{ site.author["name"] }}
+: {{ site.author["full_name"] }}
 
 Address
-: {{ site.author["street"] }}  
-{{ site.author["zip"] }} {{ site.author["city"] }}  
+: {{ site.author["street"] }}<br/>
+{{ site.author["zip"] }} {{ site.author["city"] }}<br/>
 {{ site.author.country[site.active_lang] }}
 
 Position (WGS84)

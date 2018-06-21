@@ -59,7 +59,8 @@ sass:
 
 # About me / Contact
 author:
-  name:              Christoph W. Roeper
+  name:              Christoph Roeper
+  full_name:         Christoph W. Roeper
   company:           Christoph Roeper - roeper.biz
   vat-id:            "DE174675273"
   street:            "Augustastr. 5"
