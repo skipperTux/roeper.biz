@@ -16,11 +16,11 @@ Address
 Position (WGS84)
 : [{{ site.author.position[site.active_lang] }}]({{ site.data.links.author["position"] }}){:target="_blank"}
 
-Phone
-: {{ site.author["phone"] }}
-
 Email
 : <a href="mailto:{{ site.author["email"] }}">{{ site.author["email"] }}</a>
+
+Phone
+: {{ site.author["phone"] }}
 
 Web
 : [{{ site.author["web"] }}]({{ site.data.links.author.home[site.active_lang] }})

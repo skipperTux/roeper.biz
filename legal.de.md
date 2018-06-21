@@ -13,8 +13,8 @@ lang: de
 {{ site.author["street"] }}<br/>
 {{ site.author["zip"] }} {{ site.author["city"] }}
 
-Telefon: {{ site.author["phone"] }}<br/>
-E-Mail: {{ site.author["email"] }}
+E-Mail: {{ site.author["email"] }}<br/>
+Telefon: {{ site.author["phone"] }}
 
 ### Umsatzsteuer-IdNr
 
