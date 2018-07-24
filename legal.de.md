@@ -42,7 +42,7 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 
 ### Warenzeichen
 
-Linux ist ein eingetragenes Warenzeichen von Linus Torvalds. Microsoft und Windows sind entweder eingetragene Warenzeichen oder Warenzeichen der Microsoft Corporation in den USA und/oder anderen Ländern. SAP und andere Produkte und Dienstleistungen von SAP sowie die dazugehörigen Logos sind Marken oder eingetragene Marken der SAP SE in Deutschland und anderen Ländern. Alle weiteren erwähnten Software- und Hardwarebezeichnungen sind in den meisten Fällen auch eingetragene Marken der jeweiligen Firmen und unterliegen als solche den gesetzlichen Bestimmungen.
+Linux&reg; ist ein eingetragenes Warenzeichen von Linus Torvalds in den USA und anderen Ländern. Microsoft&reg; und Windows&reg; sind entweder eingetragene Marken oder Marken der Microsoft Corporation in den Vereinigten Staaten und/oder anderen Ländern. SAP und andere Produkte und Dienstleistungen von SAP sowie die dazugehörigen Logos sind Marken oder eingetragene Marken der SAP SE in Deutschland und anderen Ländern. Alle weiteren erwähnten Software- und Hardwarebezeichnungen sind in den meisten Fällen auch eingetragene Marken der jeweiligen Firmen und unterliegen als solche den gesetzlichen Bestimmungen.
 
 ### Lizenz
 
