@@ -9,7 +9,7 @@ while [[ $# -gt 0 ]]; do
         -b|--build)
         build=true
         ;;
-        # This is a flag type option. Will catch either -f or --foo
+        # This is a flag type option. Will catch either -w or --watch
         -w|--watch)
         watch=true
         ;;
