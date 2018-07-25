@@ -60,7 +60,7 @@ Die Nachfolgekommentare können abonniert werden. Sie erhalten eine Bestätigung
 
 Ihre Emailadresse wird für keinen anderen Zweck verwendet als die Zusendung der Artikel. Sie können das Abonnement jederzeit beenden. Bei der Anmeldung und deren Bestätigung werden die IP-Adresse mit dem Zeitpunkt gespeichert, um im Zweifelsfall die Anmeldung nachweisen zu können.
 
-Google Weg Fonts:
+Google Web Fonts:
 
 Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten so genannte Web Fonts, die von Google bereitgestellt werden. Beim Aufruf einer Seite lädt Ihr Browser die benötigten Web Fonts in ihren Browsercache, um Texte und Schriftarten korrekt anzuzeigen.
 
