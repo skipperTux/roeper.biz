@@ -27,6 +27,10 @@ contact:
   de: "kontakt"
   en: "contact"
 
+badges:
+  de: "sticker"
+  en: "badges"
+
 legal:
   de: "impressum"
   en: "legal notice"
