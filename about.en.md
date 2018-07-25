@@ -7,7 +7,7 @@ lang: en
 
 Hi, my name is Christoph Roeper. I have been working as an independent Software Developer and System Administrator since 1995. Located in Aachen, Germany, I have also been working as a development lead, and in consulting and management for small and medium-sized enterprises.
 
-Moreover, I invest in companies specialized in consulting and developing ERP-based solutions. 
+Moreover, I invest in companies specialized in consulting and developing ERP-based solutions.
 
 I came into home-computing back in 1983 and started learning BASIC, Z80-Assembler, Forth and Pascal. My current professional work is done in Linux and Microsoft Windows environments, mainly developing server-side business solutions using the .NET framework and C#. I have also done development using other languages, like Java, JavaScript, Ruby, PHP, Object Pascal and all sorts of libraries and frameworks, too.
 
