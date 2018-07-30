@@ -50,4 +50,4 @@ Falls nicht anders angegeben, sind Artikel und Veröffentlichungen lizenziert un
 
 ### Allgemeine Geschäftsbedingungen
 
-[AGB](/roeper.biz-AGB.pdf){:target="_blank"}
+[AGB]({{ site.baseurl }}/assets/site/docs/roeper.biz-AGB.pdf){:target="_blank"}
