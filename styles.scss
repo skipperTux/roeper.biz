@@ -28,7 +28,7 @@
 // @import "pagination";
 // @import "message";
 
-$font-stack: 'inconsolatamedium', monospace;
+$font-stack: 'Inconsolata', monospace;
 $font-size-base: 14px;
 
 /* grid stuff */
@@ -80,7 +80,7 @@ body {
 
 /* set body font-sizes in media queries, boom, font-scaling done! */
 
-body {
+body,pre {
 	font-size: $font-size-base;
 	line-height: $font-size-base + 6;
 	font-family: $font-stack;
@@ -119,7 +119,7 @@ aside {
 
 article {
 	margin: 0 0 1.5em 0;
-	
+
 	p {
 		margin-top: 0.4em;
 	}
@@ -139,11 +139,11 @@ article {
 	text-transform: uppercase;
 	font-style: italic;
 	margin-top: 1.5em;
-	
+
 	a:link, a:visited {
 		color: inherit;
 	}
-	
+
 	span:before {
 		content: "----------------------------\00a0";
 		margin-left: -50%;
@@ -190,4 +190,3 @@ footer {
 .pagination {
 	margin-bottom: 2em;
 }
-
