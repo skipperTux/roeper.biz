@@ -1,0 +1,8 @@
+
+
+/* grid stuff */
+
+@mixin col($column-count) {
+  width: (100% / ($totalcolumns / $column-count));
+  display: block;
+}

@@ -3,7 +3,6 @@
 // Update the foundational and global aspects of the page.
 
 * {
-//  font-family: $font-stack;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
@@ -18,7 +17,6 @@ body {
 html {
   font-size: 16px;
   line-height: 1.5;
-
   @media (min-width: 38em) {
     font-size: 18px;
   }
@@ -81,13 +79,168 @@ tbody tr:nth-child(odd) th {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  .column {
+    flex: 33.33%;
+    .badge {
+      max-width: 160px;
+      padding: 5px;
+    }
+  }
 }
 
-.column {
-  flex: 33.33%;
+
+
+//////////////////////////////
+
+
+
+// body as wrapper
+
+body {
+  width: 80%;
+  max-width: 960px;
+  margin: 0 auto;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
 
-.badge {
-  max-width: 160px;
-  padding: 5px;
+// actual column classes
+
+.col-12 {
+  @include col(12);
+}
+
+.col-8 {
+  @include col(8);
+}
+
+.col-6 {
+  @include col(6);
+}
+
+.col-4 {
+  @include col(4);
+}
+
+.col-4, .col-6, .col-8, .col-12 {
+  @media screen AND (max-width: 959px) {
+    width: 100%;
+  }
+  @media screen AND (min-width: 960px) {
+    display: inline-block;
+    float: left;
+  }
+}
+
+/* set body font-sizes in media queries, boom, font-scaling done! */
+
+body,pre {
+  font-size: $font-size-base;
+  line-height: $font-size-base + 6;
+  font-family: $font-stack;
+}
+
+aside {
+
+  margin-bottom: 1em;
+
+  .pre {
+    white-space: pre;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    &:before {
+      content: "\0000a0\0000a0\0000a0";
+    }
+  }
+
+  li {
+    display: inline-block;
+
+    &:after {
+      content: "\0000a0";
+    }
+  }
+
+  // li:before {
+  //  content: "\0000a0\0000a0\0000a0\0000a0";
+  // }
+}
+
+article {
+  margin: 0 0 1.5em 0;
+
+  p {
+    margin-top: 0.4em;
+  }
+
+  @media screen AND (min-width: 960px) {
+    width: 80ch;
+  }
+}
+
+.read-more {
+  @media screen AND (min-width: 960px) {
+    width: 80ch;
+  }
+  white-space: nowrap;
+  overflow: hidden;
+  text-align: center;
+  text-transform: uppercase;
+  font-style: italic;
+  margin-top: 1.5em;
+
+  a:link, a:visited {
+    color: inherit;
+  }
+
+  span:before {
+    content: "----------------------------\00a0";
+    margin-left: -50%;
+  }
+
+  span:after {
+    content: "\00a0----------------------------";
+    margin-right: -50%;
+  }
+
+  span:before, span:after {
+  }
+
+}
+
+h1 {
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+
+  a:link, a:visited {
+    color: inherit;
+  }
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-left: 0;
+  margin-bottom: 1em;
+}
+
+nav ul li {
+  display: block;
+}
+
+footer {
+  clear: both;
+  min-height: 4em;
+}
+
+.pagination {
+  margin-bottom: 2em;
 }
