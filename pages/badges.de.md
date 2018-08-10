@@ -5,31 +5,71 @@ permalink: badges/
 lang: de
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Eine lose Sammlung von Stickern, Zertifikaten und Mitgliedschaften. Bitte [kontaktieren](/de/contact) Sie mich, um einen vollständigen Lebenslauf zu erhalten.
 
 <div class="row">
   <div class="column">
-    <img class="badge" src="{{ site.baseurl }}/assets/site/images/hubaachen_badge_invert.png" alt="Logo digitalHUB Supporter" title="digitalHUB Supporter since 2018-01-01" />
+    <a href="https://aachen.digital/" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/hubaachen_badge_invert.png" alt="Logo digitalHUB Supporter" title="digitalHUB Supporter seit dem 01. Januar 2018" />
+    </a>
   </div>
   <div class="column">
-    <a href="{{ site.baseurl }}/assets/site/badges/2017-12-12_ifb1_RecordOfAchievement.pdf" target="_blank">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2017-12-12_ifb1_RecordOfAchievement.png" alt="Thumbnail OpenSAP Record of Achievement" title="In Action - Integration Framework for SAP Business One on 2017-12-12" />
+    <a href="{{ site.baseurl }}/assets/site/badges/2017-12-12_ifb1_ConfirmationOfParticipation.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2017-12-12_ifb1_ConfirmationOfParticipation.png" alt="Thumbnail OpenSAP Record of Achievement" title="In Action - Integration Framework for SAP Business One am 12. Dezember 2017" />
     </a>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <a href="{{ site.baseurl }}/assets/site/badges/2016-12-20_Introduction-to-Linux_Certificate.pdf" target="_blank">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2016-12-20_Introduction-to-Linux_Certificate.png" alt="Thumbnail edX Certificate" title="Introduction to Linux on 2016-12-20" />
+    <a href="{{ site.baseurl }}/assets/site/badges/2017-11_DevOpsCon2017_Zertifikat.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2017-11_DevOpsCon2017_Zertifikat.png" alt="Thumbnail DevOpsCon 2017 Zertifikat" title="DevOpsCon 2017 im November 2017" />
     </a>
   </div>
   <div class="column">
-    <img class="badge" src="{{ site.baseurl }}/assets/site/images/250px-Linux_Foundation_logo.png" alt="Logo Linux Foundation" title="Linux Foundation Supporter since 2014-05-04" />
+    <a href="{{ site.baseurl }}/assets/site/badges/2016-12-20_Introduction-to-Linux_Certificate.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2016-12-20_Introduction-to-Linux_Certificate.png" alt="Thumbnail edX Zertifikat" title="Introduction to Linux am 20. Dezember 2016" />
+    </a>
   </div>
   <div class="column">
-    <a href="{{ site.baseurl }}/assets/site/badges/2013-07_hana1_RecordOfAchievement.pdf" target="_blank">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2013-07_hana1_RecordOfAchievement.png" alt="Thumbnail OpenSAP Record of Achievement" title="Introduction to Software Development on SAP HANA in 2013-07" />
+    <a href="{{ site.baseurl }}/assets/site/badges/2015-09_BASTA!_Zertifikat.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2015-09_BASTA!_Zertifikat.png" alt="Thumbnail BASTA! 2015 Zertifikat" title="BASTA! im September 2015" />
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <a href="{{ site.baseurl }}/assets/site/badges/2014-09_BASTA!_Zertifikat.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2014-09_BASTA!_Zertifikat.png" alt="Thumbnail BASTA! 2014 Zertifikat" title="BASTA! im September 2014" />
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://www.linuxfoundation.org/" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/250px-Linux_Foundation_logo.png" alt="Logo Linux Foundation" title="Linux Foundation Supporter seit dem 04. Mai 2014" />
+    </a>
+  </div>
+  <div class="column">
+    <a href="{{ site.baseurl }}/assets/site/badges/2013-07_hana1_ConfirmationOfParticipation.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2013-07_hana1_ConfirmationOfParticipation.png" alt="Thumbnail OpenSAP Record of Achievement" title="Introduction to Software Development on SAP HANA im Juli 2013" />
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <a href="{{ site.baseurl }}/assets/site/badges/2012-04-05_Prüfungszeugnis_Ausbilder-Eignungsverordnung.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2012-04-05_Prüfungszeugnis_Ausbilder-Eignungsverordnung.png" alt="Thumbnail Prüfungszeugnis Ausbilder-Eignungsverordnung" title="Anerkannter Ausbilder im Sinne des Berufsbildungsgesetzes seit dem 05. April 2012" />
+    </a>
+  </div>
+  <div class="column">
+    <a href="{{ site.baseurl }}/assets/site/badges/2009-09_EKON13_Zertifikat.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2009-09_EKON13_Zertifikat.png" alt="Thumbnail EKON 13 Zertifikat" title="EKON 13 im September 2009" />
+    </a>
+  </div>
+  <div class="column">
+    <a href="{{ site.baseurl }}/assets/site/badges/2007-09_EKON11_EuroDevCon2007_Zertifikat.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2007-09_EKON11_EuroDevCon2007_Zertifikat.png" alt="Thumbnail EKON 11 / EuroDevCon 2007 Zertifikat" title="EKON 11 / EuroDevCon 2007 im September 2007" />
     </a>
   </div>
 </div>
