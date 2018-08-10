@@ -53,7 +53,7 @@ Wir geben Ihre persönlichen Daten nur an Dritte weiter, wenn:
 
 Wir setzen ggf. auf unserer Website auf Grundlage des [Art. 6 Abs. 1 S. 1 lit. f DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} Plug-ins aus sozialen Netzwerken ein, um unser Unternehmen hierüber bekannter zu machen. Der dahinterstehende werbliche Zweck ist als berechtigtes Interesse im Sinne der DSGVO anzusehen. Die Verantwortung für den datenschutzkonformen Betrieb ist durch den jeweiligen Anbieter zu gewährleisten. Die Einbindung dieser Plug-ins durch uns erfolgt im Wege der sogenannten [Zwei-Klick-Methode]({{ site.data.links["heiseShariff"] }}){:target="_blank"} um Besucher unserer Webseite bestmöglich zu schützen.
 
-Blogs:
+Blog Kommentare (zur Zeit nicht aktiv):
 
 Wenn Sie einen Kommentar im Blog abgeben, wird Ihre IP-Adresse gespeichert. Das erfolgt zu unserer Sicherheit, falls jemand in Kommentaren widerrechtliche Inhalte schreibt (Beleidigungen, verbotene politische Propaganda, etc.). In diesem Fall könnten wir selbst für den Kommentar belangt werden und sind daher an der Identität des Kommentarverfassers interessiert. Diese Kommentar-IP-Adressen werden jedoch gelöscht, sobald wir die Kommentare gelesen haben. Das erfolgt in der Regel innerhalb weniger Stunden.
 Die Nachfolgekommentare können abonniert werden. Sie erhalten eine Bestätigungsemail, um zu überprüfen, ob Sie der Inhaber der eingegebenen Emailadresse sind. Sie können laufende Kommentarabonnements jederzeit abbestellen. Die Bestätigungsemail wird Hinweise dazu enthalten. Bei der Anmeldung und deren Bestätigung werden die IP-Adresse mit dem Zeitpunkt gespeichert, um im Zweifelsfall die Anmeldung nachweisen zu können.
@@ -62,7 +62,7 @@ Ihre Emailadresse wird für keinen anderen Zweck verwendet als die Zusendung der
 
 Google Web Fonts:
 
-Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten so genannte Web Fonts, die von Google bereitgestellt werden. Beim Aufruf einer Seite lädt Ihr Browser die benötigten Web Fonts in ihren Browsercache, um Texte und Schriftarten korrekt anzuzeigen.
+Zur einheitlichen Darstellung von Schriftarten nutzt die Seite ggf. so genannte Web Fonts, die von Google bereitgestellt werden. Beim Aufruf einer Seite lädt Ihr Browser die benötigten Web Fonts in ihren Browsercache, um Texte und Schriftarten korrekt anzuzeigen.
 
 Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern von Google aufnehmen. Hierdurch erlangt Google Kenntnis darüber, dass über Ihre IP-Adresse unsere Website aufgerufen wurde. Die Nutzung von Google Web Fonts erfolgt im Interesse einer einheitlichen und ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne von [Art. 6 Abs. 1 lit. f DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} dar.
 
