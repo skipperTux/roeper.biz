@@ -15,7 +15,7 @@ Eine lose Sammlung von Stickern, Zertifikaten und Mitgliedschaften. Bitte [konta
   </div>
   <div class="column">
     <a href="{{ site.baseurl }}/assets/site/badges/2017-12-12_ifb1_ConfirmationOfParticipation.pdf" target="_blank">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2017-12-12_ifb1_ConfirmationOfParticipation.png" alt="Thumbnail OpenSAP Record of Achievement" title="In Action - Integration Framework for SAP Business One am 12. Dezember 2017" />
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2017-12-12_ifb1_ConfirmationOfParticipation.png" alt="Thumbnail OpenSAP Confirmation of Participation" title="In Action - Integration Framework for SAP Business One am 12. Dezember 2017" />
     </a>
   </div>
 </div>
@@ -51,7 +51,7 @@ Eine lose Sammlung von Stickern, Zertifikaten und Mitgliedschaften. Bitte [konta
   </div>
   <div class="column">
     <a href="{{ site.baseurl }}/assets/site/badges/2013-07_hana1_ConfirmationOfParticipation.pdf" target="_blank">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2013-07_hana1_ConfirmationOfParticipation.png" alt="Thumbnail OpenSAP Record of Achievement" title="Introduction to Software Development on SAP HANA im Juli 2013" />
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2013-07_hana1_ConfirmationOfParticipation.png" alt="Thumbnail OpenSAP Confirmation of Participation" title="Introduction to Software Development on SAP HANA im Juli 2013" />
     </a>
   </div>
 </div>

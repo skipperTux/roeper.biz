@@ -15,7 +15,7 @@ A loose collection of badges, certificates, achievements and memberships. Please
   </div>
   <div class="column">
     <a href="{{ site.baseurl }}/assets/site/badges/2017-12-12_ifb1_ConfirmationOfParticipation.pdf" target="_blank">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2017-12-12_ifb1_ConfirmationOfParticipation.png" alt="Thumbnail OpenSAP Record of Achievement" title="In Action - Integration Framework for SAP Business One on December 12, 2017" />
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2017-12-12_ifb1_ConfirmationOfParticipation.png" alt="Thumbnail OpenSAP Confirmation of Participation" title="In Action - Integration Framework for SAP Business One on December 12, 2017" />
     </a>
   </div>
 </div>
@@ -51,7 +51,7 @@ A loose collection of badges, certificates, achievements and memberships. Please
   </div>
   <div class="column">
     <a href="{{ site.baseurl }}/assets/site/badges/2013-07_hana1_ConfirmationOfParticipation.pdf" target="_blank">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2013-07_hana1_ConfirmationOfParticipation.png" alt="Thumbnail OpenSAP Record of Achievement" title="Introduction to Software Development on SAP HANA in July 2013" />
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2013-07_hana1_ConfirmationOfParticipation.png" alt="Thumbnail OpenSAP Confirmation of Participation" title="Introduction to Software Development on SAP HANA in July 2013" />
     </a>
   </div>
 </div>
