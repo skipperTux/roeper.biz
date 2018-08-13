@@ -9,7 +9,7 @@ A loose collection of badges, certificates, achievements and memberships. Please
 
 <div class="row">
   <div class="column">
-    <a href="https://aachen.digital/" target="_blank">
+    <a href="https://aachen.digital/">
       <img class="badge" src="{{ site.baseurl }}/assets/site/images/hubaachen_badge_invert.png" alt="Logo digitalHUB Supporter" title="digitalHUB Supporter since January 1, 2018" />
     </a>
   </div>
@@ -18,14 +18,14 @@ A loose collection of badges, certificates, achievements and memberships. Please
       <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2017-12-12_ifb1_ConfirmationOfParticipation.png" alt="Thumbnail OpenSAP Confirmation of Participation" title="In Action - Integration Framework for SAP Business One on December 12, 2017" />
     </a>
   </div>
-</div>
-
-<div class="row">
   <div class="column">
     <a href="{{ site.baseurl }}/assets/site/badges/2017-11_DevOpsCon2017_Zertifikat.pdf" target="_blank">
       <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2017-11_DevOpsCon2017_Zertifikat.png" alt="Thumbnail DevOpsCon 2017 Certificate" title="DevOpsCon 2017 in November 2017" />
     </a>
   </div>
+</div>
+
+<div class="row">
   <div class="column">
     <a href="{{ site.baseurl }}/assets/site/badges/2016-12-20_Introduction-to-Linux_Certificate.pdf" target="_blank">
       <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2016-12-20_Introduction-to-Linux_Certificate.png" alt="Thumbnail edX Certificate" title="Introduction to Linux on December 20, 2016" />
@@ -34,6 +34,11 @@ A loose collection of badges, certificates, achievements and memberships. Please
   <div class="column">
     <a href="{{ site.baseurl }}/assets/site/badges/2015-09_BASTA!_Zertifikat.pdf" target="_blank">
       <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2015-09_BASTA!_Zertifikat.png" alt="Thumbnail BASTA! 2015 Certificate" title="BASTA! in September 2015" />
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://events.linuxfoundation.org/">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/hdr_lceucoeu14.png" alt="Logos LinuxCon + CloudOpen + ELC Europe 2014" title="LinuxCon + CloudOpen + ELC Europe 2014 in Oktober 2014" />
     </a>
   </div>
 </div>
@@ -45,8 +50,8 @@ A loose collection of badges, certificates, achievements and memberships. Please
     </a>
   </div>
   <div class="column">
-    <a href="https://www.linuxfoundation.org/" target="_blank">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/250px-Linux_Foundation_logo.png" alt="Logo Linux Foundation" title="Linux Foundation Supporter since May 4, 2014" />
+    <a href="https://www.linuxfoundation.org/">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/LF_logo_NEW_H_W.png" style="background-color:#0a3b61;" alt="Logo The Linux Foundation" title="The Linux Foundation&reg; Individual Supporter since May 4, 2014" />
     </a>
   </div>
   <div class="column">
