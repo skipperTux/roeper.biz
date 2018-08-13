@@ -13,4 +13,4 @@ Meine ersten Programmierkenntnisse sammelte ich anno 1983 mit dem Erlernen von B
 
 Im Management von Softwareprojekten und der Leitung von Entwicklungsabteilungen greife ich auf einen großen Erfahrungshorizont zurück. Hier habe ich sowohl maßgeschneiderte Individual- als auch Standardsoftwarelösungen betreut. Dazu zählt im Besonderen Unternehmenssoftware wie ERP (Enterprise Resource Planning), LVS (Lagerverwaltung und Logistik), DMS (Document Management Software) und CRM (Customer Relationship Management).
 
-Besuchen Sie mein vollständiges Profil auf [LinkedIn]({{ site.data.links.author.linkedIn[site.active_lang] }}){:target="_blank"} oder finden Sie unter [Leistungen](/de/services) heraus, wie ich Ihnen helfen kann.
+Besuchen Sie mein vollständiges Profil auf [LinkedIn]({{ site.data.links.author.linkedIn[site.active_lang] }}) oder finden Sie unter [Leistungen](/de/services) heraus, wie ich Ihnen helfen kann.

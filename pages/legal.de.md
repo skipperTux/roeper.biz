@@ -40,14 +40,14 @@ Geltungsraum der Versicherung: weltweit (USA und Kanada nur Vermögensschäden)
 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
-### Warenzeichen
+### Marken
 
-Linux&reg; ist ein eingetragenes Warenzeichen von Linus Torvalds in den USA und anderen Ländern. Microsoft&reg; und Windows&reg; sind entweder eingetragene Marken oder Marken der Microsoft Corporation in den Vereinigten Staaten und/oder anderen Ländern. SAP und andere Produkte und Dienstleistungen von SAP sowie die dazugehörigen Logos sind Marken oder eingetragene Marken der SAP SE in Deutschland und anderen Ländern. Alle weiteren erwähnten Software- und Hardwarebezeichnungen sind in den meisten Fällen auch eingetragene Marken der jeweiligen Firmen und unterliegen als solche den gesetzlichen Bestimmungen.
+Linux&reg; ist eine eingetragene Marke von Linus Torvalds in den USA und anderen Ländern. The Linux Foundation&reg; ist eine eingetragene Marke der Linux Foundation in den Vereinigten Staaten und/oder anderen Ländern. Microsoft&reg; und Windows&reg; sind entweder eingetragene Marken oder Marken der Microsoft Corporation in den Vereinigten Staaten und/oder anderen Ländern. SAP und andere Produkte und Dienstleistungen von SAP sowie die dazugehörigen Logos sind Marken oder eingetragene Marken der SAP SE in Deutschland und anderen Ländern. Alle weiteren erwähnten Software- und Hardwarebezeichnungen sind in den meisten Fällen auch eingetragene Marken der jeweiligen Firmen und unterliegen als solche den gesetzlichen Bestimmungen.
 
 ### Lizenz
 
-Falls nicht anders angegeben, sind Artikel und Veröffentlichungen lizenziert unter einer [Creative Commons Namensnennung 4.0 International Lizenz]({{ site.data.links.creativeCommonsLicense[site.active_lang] }}){:target="_blank"}, und Source Code ist lizenziert unter einer [BSD-new License (3-clause BSD)](/license).
+Falls nicht anders angegeben, sind Artikel und Veröffentlichungen lizenziert unter einer [Creative Commons Namensnennung 4.0 International Lizenz]({{ site.data.links.creativeCommonsLicense[site.active_lang] }}), und Source Code ist lizenziert unter einer [BSD-new License (3-clause BSD)](/license).
 
 ### Allgemeine Geschäftsbedingungen
 
-[AGB]({{ site.baseurl }}/assets/site/docs/roeper.biz-AGB.pdf){:target="_blank"}
+<a href="{{ site.baseurl }}/assets/site/docs/roeper.biz-AGB.pdf" download>AGB</a>

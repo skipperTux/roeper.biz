@@ -36,7 +36,7 @@ Die genannten Daten werden durch uns zu folgenden Zwecken verarbeitet:
 * Auswertung der Systemsicherheit und -stabilität sowie
 * zu weiteren administrativen Zwecken.
 
-Die Rechtsgrundlage für die Datenverarbeitung ist [Art. 6 Abs. 1 lit. f DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"}. Unser berechtigtes Interesse folgt aus oben aufgelisteten Zwecken zur Datenerhebung. In keinem Fall verwenden wir die erhobenen Daten zu dem Zweck, Rückschlüsse auf Ihre Person zu ziehen.
+Die Rechtsgrundlage für die Datenverarbeitung ist [Art. 6 Abs. 1 lit. f DSGVO]({{ site.data.links.gdpr[site.active_lang] }}). Unser berechtigtes Interesse folgt aus oben aufgelisteten Zwecken zur Datenerhebung. In keinem Fall verwenden wir die erhobenen Daten zu dem Zweck, Rückschlüsse auf Ihre Person zu ziehen.
 
 ### Weitergabe von Daten
 
@@ -44,14 +44,14 @@ Eine Übermittlung Ihrer persönlichen Daten an Dritte zu anderen als den im Fol
 
 Wir geben Ihre persönlichen Daten nur an Dritte weiter, wenn:
 
-* Sie Ihre nach [Art. 6 Abs. 1 Satz 1 lit. a DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} ausdrückliche Einwilligung dazu erteilt haben,
-* die Weitergabe nach [Art. 6 Abs. 1 Satz 1 lit. f DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist und kein Grund zur Annahme besteht, dass Sie ein überwiegendes schutzwürdiges Interesse an der nicht Weitergabe Ihrer Daten haben,
-* für den Fall, dass für die Weitergabe nach [Art. 6 Abs. 1 Satz 1 lit. c DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} eine gesetzliche Verpflichtung besteht, sowie
-* dies gesetzlich zulässig und nach [Art. 6 Abs. 1 Satz 1 lit. b DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} für die Abwicklung von Vertragsverhältnissen mit Ihnen erforderlich ist.
+* Sie Ihre nach [Art. 6 Abs. 1 Satz 1 lit. a DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) ausdrückliche Einwilligung dazu erteilt haben,
+* die Weitergabe nach [Art. 6 Abs. 1 Satz 1 lit. f DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist und kein Grund zur Annahme besteht, dass Sie ein überwiegendes schutzwürdiges Interesse an der nicht Weitergabe Ihrer Daten haben,
+* für den Fall, dass für die Weitergabe nach [Art. 6 Abs. 1 Satz 1 lit. c DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) eine gesetzliche Verpflichtung besteht, sowie
+* dies gesetzlich zulässig und nach [Art. 6 Abs. 1 Satz 1 lit. b DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) für die Abwicklung von Vertragsverhältnissen mit Ihnen erforderlich ist.
 
 ### Social Media Plug-ins, sonstige Tools
 
-Wir setzen ggf. auf unserer Website auf Grundlage des [Art. 6 Abs. 1 S. 1 lit. f DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} Plug-ins aus sozialen Netzwerken ein, um unser Unternehmen hierüber bekannter zu machen. Der dahinterstehende werbliche Zweck ist als berechtigtes Interesse im Sinne der DSGVO anzusehen. Die Verantwortung für den datenschutzkonformen Betrieb ist durch den jeweiligen Anbieter zu gewährleisten. Die Einbindung dieser Plug-ins durch uns erfolgt im Wege der sogenannten [Zwei-Klick-Methode]({{ site.data.links["heiseShariff"] }}){:target="_blank"} um Besucher unserer Webseite bestmöglich zu schützen.
+Wir setzen ggf. auf unserer Website auf Grundlage des [Art. 6 Abs. 1 S. 1 lit. f DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) Plug-ins aus sozialen Netzwerken ein, um unser Unternehmen hierüber bekannter zu machen. Der dahinterstehende werbliche Zweck ist als berechtigtes Interesse im Sinne der DSGVO anzusehen. Die Verantwortung für den datenschutzkonformen Betrieb ist durch den jeweiligen Anbieter zu gewährleisten. Die Einbindung dieser Plug-ins durch uns erfolgt im Wege der sogenannten [Zwei-Klick-Methode]({{ site.data.links["heiseShariff"] }}) um Besucher unserer Webseite bestmöglich zu schützen.
 
 Blog Kommentare (zur Zeit nicht aktiv):
 
@@ -64,9 +64,9 @@ Google Web Fonts:
 
 Zur einheitlichen Darstellung von Schriftarten nutzt die Seite ggf. so genannte Web Fonts, die von Google bereitgestellt werden. Beim Aufruf einer Seite lädt Ihr Browser die benötigten Web Fonts in ihren Browsercache, um Texte und Schriftarten korrekt anzuzeigen.
 
-Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern von Google aufnehmen. Hierdurch erlangt Google Kenntnis darüber, dass über Ihre IP-Adresse unsere Website aufgerufen wurde. Die Nutzung von Google Web Fonts erfolgt im Interesse einer einheitlichen und ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne von [Art. 6 Abs. 1 lit. f DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} dar.
+Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern von Google aufnehmen. Hierdurch erlangt Google Kenntnis darüber, dass über Ihre IP-Adresse unsere Website aufgerufen wurde. Die Nutzung von Google Web Fonts erfolgt im Interesse einer einheitlichen und ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne von [Art. 6 Abs. 1 lit. f DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) dar.
 
-Wenn Ihr Browser Web Fonts nicht unterstützt, wird eine Standardschrift von Ihrem Computer genutzt. Weitere Informationen finden Sie in der [Google Web Fonts FAQ]({{ site.data.links["googleWebFontsFAQ"] }}){:target="_blank"} und in der [Datenschutzerklärung von Google]({{ site.data.links["googlePrivacyPolicy"] }}){:target="_blank"}.
+Wenn Ihr Browser Web Fonts nicht unterstützt, wird eine Standardschrift von Ihrem Computer genutzt. Weitere Informationen finden Sie in der [Google Web Fonts FAQ]({{ site.data.links["googleWebFontsFAQ"] }}) und in der [Datenschutzerklärung von Google]({{ site.data.links["googlePrivacyPolicy"] }}).
 
 ### Einbindung von Diensten und Inhalten Dritter
 
@@ -76,17 +76,17 @@ Es kann vorkommen, dass Inhalte Dritter, wie zum Beispiel Videos von YouTube, Ka
 
 Sie haben das Recht:
 
-- gemäß [Art. 15 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} Auskunft über Ihre von uns verarbeiteten personenbezogenen Daten zu verlangen. Insbesondere können Sie Auskunft über die Verarbeitungszwecke, die Kategorie der personenbezogenen Daten, die Kategorien von Empfängern, gegenüber denen Ihre Daten offengelegt wurden oder werden, die geplante Speicherdauer, das Bestehen eines Rechts auf Berichtigung, Löschung, Einschränkung der Verarbeitung oder Widerspruch, das Bestehen eines Beschwerderechts, die Herkunft ihrer Daten, sofern diese nicht bei uns erhoben wurden, sowie über das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling und ggf. aussagekräftigen Informationen zu deren Einzelheiten verlangen;
-- gemäß [Art. 16 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} unverzüglich die Berichtigung unrichtiger oder Vervollständigung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen;
-- gemäß [Art. 17 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} die Löschung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen, soweit nicht die Verarbeitung zur Ausübung des Rechts auf freie Meinungsäußerung und Information, zur Erfüllung einer rechtlichen Verpflichtung, aus Gründen des öffentlichen Interesses oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist;
-- gemäß [Art. 18 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen, soweit die Richtigkeit der Daten von Ihnen bestritten wird, die Verarbeitung unrechtmäßig ist, Sie aber deren Löschung ablehnen und wir die Daten nicht mehr benötigen, Sie jedoch diese zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen oder Sie gemäß [Art. 21 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} Widerspruch gegen die Verarbeitung eingelegt haben;
-- gemäß [Art. 20 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} Ihre personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesebaren Format zu erhalten oder die Übermittlung an einen anderen Verantwortlichen zu verlangen;
-- gemäß [Art. 7 Abs. 3 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} Ihre einmal erteilte Einwilligung jederzeit gegenüber uns zu widerrufen. Dies hat zur Folge, dass wir die Datenverarbeitung, die auf dieser Einwilligung beruhte, für die Zukunft nicht mehr fortführen dürfen und
-- gemäß [Art. 77 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} sich bei einer Aufsichtsbehörde zu beschweren. In der Regel können Sie sich hierfür an die Aufsichtsbehörde Ihres üblichen Aufenthaltsortes oder Arbeitsplatzes oder unseres Firmensitzes wenden.
+- gemäß [Art. 15 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) Auskunft über Ihre von uns verarbeiteten personenbezogenen Daten zu verlangen. Insbesondere können Sie Auskunft über die Verarbeitungszwecke, die Kategorie der personenbezogenen Daten, die Kategorien von Empfängern, gegenüber denen Ihre Daten offengelegt wurden oder werden, die geplante Speicherdauer, das Bestehen eines Rechts auf Berichtigung, Löschung, Einschränkung der Verarbeitung oder Widerspruch, das Bestehen eines Beschwerderechts, die Herkunft ihrer Daten, sofern diese nicht bei uns erhoben wurden, sowie über das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling und ggf. aussagekräftigen Informationen zu deren Einzelheiten verlangen;
+- gemäß [Art. 16 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) unverzüglich die Berichtigung unrichtiger oder Vervollständigung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen;
+- gemäß [Art. 17 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) die Löschung Ihrer bei uns gespeicherten personenbezogenen Daten zu verlangen, soweit nicht die Verarbeitung zur Ausübung des Rechts auf freie Meinungsäußerung und Information, zur Erfüllung einer rechtlichen Verpflichtung, aus Gründen des öffentlichen Interesses oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen erforderlich ist;
+- gemäß [Art. 18 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen, soweit die Richtigkeit der Daten von Ihnen bestritten wird, die Verarbeitung unrechtmäßig ist, Sie aber deren Löschung ablehnen und wir die Daten nicht mehr benötigen, Sie jedoch diese zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen oder Sie gemäß [Art. 21 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) Widerspruch gegen die Verarbeitung eingelegt haben;
+- gemäß [Art. 20 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) Ihre personenbezogenen Daten, die Sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesebaren Format zu erhalten oder die Übermittlung an einen anderen Verantwortlichen zu verlangen;
+- gemäß [Art. 7 Abs. 3 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) Ihre einmal erteilte Einwilligung jederzeit gegenüber uns zu widerrufen. Dies hat zur Folge, dass wir die Datenverarbeitung, die auf dieser Einwilligung beruhte, für die Zukunft nicht mehr fortführen dürfen und
+- gemäß [Art. 77 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) sich bei einer Aufsichtsbehörde zu beschweren. In der Regel können Sie sich hierfür an die Aufsichtsbehörde Ihres üblichen Aufenthaltsortes oder Arbeitsplatzes oder unseres Firmensitzes wenden.
 
 ### Widerspruchsrecht
 
-Sofern Ihre personenbezogenen Daten auf Grundlage von berechtigten Interessen gemäß [Art. 6 Abs. 1 S. 1 lit. f DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} verarbeitet werden, haben Sie das Recht, gemäß [Art. 21 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}){:target="_blank"} Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten einzulegen, soweit dafür Gründe vorliegen, die sich aus Ihrer besonderen Situation ergeben oder sich der Widerspruch gegen Direktwerbung richtet. Im letzteren Fall haben Sie ein generelles Widerspruchsrecht, das ohne Angabe einer besonderen Situation von uns umgesetzt wird.
+Sofern Ihre personenbezogenen Daten auf Grundlage von berechtigten Interessen gemäß [Art. 6 Abs. 1 S. 1 lit. f DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) verarbeitet werden, haben Sie das Recht, gemäß [Art. 21 DSGVO]({{ site.data.links.gdpr[site.active_lang] }}) Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten einzulegen, soweit dafür Gründe vorliegen, die sich aus Ihrer besonderen Situation ergeben oder sich der Widerspruch gegen Direktwerbung richtet. Im letzteren Fall haben Sie ein generelles Widerspruchsrecht, das ohne Angabe einer besonderen Situation von uns umgesetzt wird.
 
 Möchten Sie von Ihrem Widerrufs- oder Widerspruchsrecht Gebrauch machen, genügt eine E-Mail an die in den Kontaktdaten genannte E-Mail Adresse.
 
