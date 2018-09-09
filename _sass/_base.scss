@@ -75,23 +75,25 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-.row {
+.badge-row {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   .column {
     flex: 33.33%;
-    .badge {
-      max-width: 160px;
-      padding: 5px;
+    .img-link {
+      display: inline-block;
+      .badge {
+        max-width: 160px;
+        margin: 6px 6px 6px 6px;
+        float: left;
+      }
     }
   }
 }
 
 
-
 //////////////////////////////
-
 
 
 // body as wrapper

@@ -12,19 +12,13 @@ blog:
   texterei:              http://www.texterei.net/
   svenStrasenLinkedIn:   https://de.linkedin.com/in/pd-dr-sven-strasen-427a4b4a
 
-# legal
-creativeCommonsLicense:
-  de:                    https://creativecommons.org/licenses/by/4.0/deed.de
-  en:                    https://creativecommons.org/licenses/by/4.0/
-gdpr:
-  de:                    https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02016R0679-20160504
-  en:                    https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0679-20160504
-germanTMG:               http://www.gesetze-im-internet.de/tmg/
-germanBDSG:              http://www.gesetze-im-internet.de/bdsg_1990/
-germanTMG2_5:            http://www.gesetze-im-internet.de/tmg/__5.html
-googlePrivacyPolicy:     https://policies.google.com/privacy
-googleWebFontsFAQ:       https://developers.google.com/fonts/faq
-heiseShariff:            https://www.heise.de/ct/ausgabe/2014-26-Social-Media-Buttons-datenschutzkonform-nutzen-2463330.html
+# common
+webhoster-all-inkl:      https://all-inkl.com/
+
+# badges
+digitalHUB:              https://aachen.digital/
+linuxFoundationEvents:   https://events.linuxfoundation.org/
+linuxFoundation:         https://www.linuxfoundation.org/
 
 # contact
 author:
@@ -40,5 +34,16 @@ author:
   stackOverflow:         https://stackoverflow.com/users/498352/skippertux?tab=profile
   gitHub:                https://github.com/skipperTux
 
-# common
-webhoster-all-inkl:      https://all-inkl.com/
+# legal
+creativeCommonsLicense:
+  de:                    https://creativecommons.org/licenses/by/4.0/deed.de
+  en:                    https://creativecommons.org/licenses/by/4.0/
+gdpr:
+  de:                    https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02016R0679-20160504
+  en:                    https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0679-20160504
+germanTMG:               http://www.gesetze-im-internet.de/tmg/
+germanBDSG:              http://www.gesetze-im-internet.de/bdsg_1990/
+germanTMG2_5:            http://www.gesetze-im-internet.de/tmg/__5.html
+googlePrivacyPolicy:     https://policies.google.com/privacy
+googleWebFontsFAQ:       https://developers.google.com/fonts/faq
+heiseShariff:            https://www.heise.de/ct/ausgabe/2014-26-Social-Media-Buttons-datenschutzkonform-nutzen-2463330.html
