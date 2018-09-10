@@ -7,10 +7,10 @@ lang: de
 
 Was kann ich tun?
 
-Ich leiste Unterstützung in allen Bereichen der Softwareentwicklung: Konzeption, Architektur, Technologie oder konkrete Implementierung (aka Programmierung und Codierung). Dabei arbeite ich überwiegend in .NET, bin dessen ungeachtet aber „Language Agnostiker“ und bei der Wahl der Programmiersprache insofern unabhängig. Gern helfe ich Ihnen beim Aufbau einer Entwicklungsumgebung inkl. Source Control und Build Server. Dabei favorisiere ich Open Source-Tools, die unter Linux und Windows laufen.
+Ich unterstütze in allen Bereichen der Softwareentwicklung: Konzeption, Architektur, Technologie oder konkrete Implementierung (aka Programmierung und Codierung). Als Language Agnostiker arbeite ich in C#, Delphi, Go, Java und JavaScript. Gern helfe ich Ihnen beim Aufbau einer Entwicklungsumgebung inkl. Versionskontrollsystem und Build Server. Dabei favorisiere ich Open-Source-Tools, die unter Linux und Windows laufen.
 
-Flexibel aufgestellt, kann ich als befristet arbeitender Entwickler oder aber als Projektleiter einspringen. Dies ist besonders interessant, wenn Sie einen kurzfristigen Teamleiter suchen, beispielsweise um ein neues Team aufzubauen oder Engpässe zu überbrücken.
+Flexibel aufgestellt, kann ich als befristet arbeitender Entwickler oder aber als Projektleiter einspringen. Dies ist besonders interessant, wenn Sie einen kurzfristigen Teamleiter suchen, beispielsweise um ein neues Team aufzubauen oder Engpässe zu überbrücken. Zudem kann ich als Softwareentwickler und Systemadministrator dabei helfen, prozessorientiert die Zusammenarbeit zwischen IT-Betrieb und -Entwicklungsteams zu verbessern (Stichwort _DevOps_).
 
-Ich helfe Ihnen, ein Linux-Netzwerk oder eine MS Windows-Umgebung aufzusetzen – gleich, ob physisch oder virtuell. Ebenso unterstütze ich Sie bei der Errichtung einer neuen oder der Migration einer bestehenden MS Windows-Domain, übernehme Linux-Dienstleistungen oder virtualisiere Ihre existierende IT-Infrastruktur.
+Ich setze Ihr Linux-Netzwerk oder eine MS-Windows-Umgebung auf – gleich, ob physisch oder virtuell. Ebenso unterstütze ich Sie bei der Errichtung einer neuen oder der Migration einer bestehenden MS-Windows-Domain, virtualisiere Ihre existierende IT-Infrastruktur oder biete Linux-basierte Lösungen an. Durch _Infrastructure as Code_ und Automation minimiere ich die Notwendigkeit, direkt auf physische oder cloud-basierte Systeme zuzugreifen.
 
-Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Blick in meinen [Blog]({{ site.data.links.author["blog"] }}), um zu erfahren, was mich begeistert.
+Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Blick in mein _Tech Radar_ oder besuchen Sie meinen Blog, um zu erfahren, was mich begeistert.

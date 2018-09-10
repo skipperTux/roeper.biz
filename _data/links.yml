@@ -15,6 +15,12 @@ blog:
 # common
 webhoster-all-inkl:      https://all-inkl.com/
 
+# about me
+thirdGenerationLang:     https://en.wikipedia.org/wiki/Third-generation_programming_language
+domainSpecificLang:
+  de:                    https://de.wikipedia.org/wiki/Dom%C3%A4nenspezifische_Sprache
+  en:                    https://en.wikipedia.org/wiki/Domain-specific_language
+
 # badges
 digitalHUB:              https://aachen.digital/
 linuxFoundationEvents:   https://events.linuxfoundation.org/
@@ -47,3 +53,5 @@ germanTMG2_5:            http://www.gesetze-im-internet.de/tmg/__5.html
 googlePrivacyPolicy:     https://policies.google.com/privacy
 googleWebFontsFAQ:       https://developers.google.com/fonts/faq
 heiseShariff:            https://www.heise.de/ct/ausgabe/2014-26-Social-Media-Buttons-datenschutzkonform-nutzen-2463330.html
+pciDSSBlog20180630:      https://blog.pcisecuritystandards.org/are-you-ready-for-30-june-2018-sayin-goodbye-to-ssl-early-tls
+sslreportroeperbiz:      https://www.ssllabs.com/ssltest/analyze.html?d=roeper.biz

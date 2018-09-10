@@ -5,9 +5,9 @@ permalink: legal/
 lang: en
 ---
 
-German websites must provide information under [_§ 5 Telemediengesetz_]({{ site.data.links["germanTMG2_5"] }}) (German Telemedia Act). For detailed information see [_Impressum_](/de/legal) (German only).
+German websites must provide information under _[§ 5 Telemediengesetz]({{ site.data.links["germanTMG2_5"] }})_ (German Telemedia Act). For detailed information see _[Impressum](/de/legal)_ (German only).
 
-European websites need to comply to the [General Data Protection Regulation]({{ site.data.links.gdpr[site.active_lang] }}) (GDPR). For more information see [_Datenschutzerklärung_](/de/privacy) (German only).
+European websites need to comply to the [General Data Protection Regulation]({{ site.data.links.gdpr[site.active_lang] }}) (GDPR). For more information see _[Datenschutzerklärung](/de/privacy)_ (German only).
 
 ### Trademarks
 

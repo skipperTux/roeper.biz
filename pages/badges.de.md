@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sticker
+title: Bapperl
 permalink: badges/
 lang: de
 ---

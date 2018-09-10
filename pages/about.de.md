@@ -9,7 +9,7 @@ Hi, mein Name ist Christoph Roeper. Seit 1995 bin ich freier Softwareentwickler 
 
 Außerdem investiere ich in Unternehmen, die auf die Entwicklung von ERP-Softwarelösungen spezialisiert sind.
 
-Meine ersten Programmierkenntnisse sammelte ich anno 1983 mit dem Erlernen von BASIC, Z80-Assembler und Pascal. Heute arbeite ich mit Linux- und Microsoft Windows-Umgebungen, wobei ich mich schwerpunktmäßig mit der serverseitigen Entwicklung von Businesslösungen auf Basis des .NET Frameworks in C# beschäftige. Darüber hinaus entwickle ich auch in anderen Sprachen, wie Java, JavaScript, Ruby, PHP, Object Pascal, sowie mit verschiedensten Bibliotheken und Frameworks.
+Meine ersten Programmierkenntnisse sammelte ich anno 1983 mit dem Erlernen von BASIC, Z80-Assembler und Pascal. Heute arbeite ich mit Linux- und Microsoft-Windows-Umgebungen. Dabei beschäftige ich mich schwerpunktmäßig mit der Entwicklung von serverseitigen Businesslösungen einschließlich Aufbau und Wartung der zugrundeliegenden Infrastruktur. Ich nutze verschiedene Programmiersprachen der dritten Generation ([3GL]({{ site.data.links.thirdGenerationLang }})), domainspezifische Sprachen ([DSL]({{ site.data.links.domainSpecificLang[site.active_lang] }})) sowie verschiedenste Bibliotheken und Frameworks.
 
 Im Management von Softwareprojekten und der Leitung von Entwicklungsabteilungen greife ich auf einen großen Erfahrungshorizont zurück. Hier habe ich sowohl maßgeschneiderte Individual- als auch Standardsoftwarelösungen betreut. Dazu zählt im Besonderen Unternehmenssoftware wie ERP (Enterprise Resource Planning), LVS (Lagerverwaltung und Logistik), DMS (Document Management Software) und CRM (Customer Relationship Management).
 
