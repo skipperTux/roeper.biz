@@ -64,6 +64,10 @@ I am best if I love what I do. So check out my "Tech Radar" below or browse my [
   <a class="img-link" href="{{ site.data.links.golang }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Go_Blue.symbol.png" alt="Logo Golang" title="Go - open source programming language">
   </a>
+  <!-- http://openjdk.java.net/projects/duke/ -->
+  <a class="img-link" href="{{ site.data.links.java[site.active_lang] }}">
+    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Java_mascot_Duke_waving.symbol.png" alt="Logo Java Duke" title="Java - programming language and computing platform">
+  </a>
   <!-- https://github.com/voodootikigod/logo.js/ -->
   <a class="img-link" href="{{ site.data.links.javascript[site.active_lang] }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/js.symbol.png" alt="Logo JavaScript" title="JavaScript - lightweight interpreted or JIT-compiled programming language">
@@ -71,10 +75,6 @@ I am best if I love what I do. So check out my "Tech Radar" below or browse my [
   <!-- http://isc.tamu.edu/~lewing/linux/ -->
   <a class="img-link" href="{{ site.data.links.linux-kernel }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Linux_Penguin.symbol.png" alt="Logo Tux" title="The Linux Kernel Archives">
-  </a>
-  <!-- http://openjdk.java.net/projects/duke/ -->
-  <a class="img-link" href="{{ site.data.links.java[site.active_lang] }}">
-    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Java_mascot_Duke_waving.symbol.png" alt="Logo Java Duke" title="Java - programming language and computing platform">
   </a>
   <!-- https://nodejs.org/en/about/resources/ -->
   <a class="img-link" href="{{ site.data.links.node-js[site.active_lang] }}">
