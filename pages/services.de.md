@@ -13,7 +13,7 @@ Flexibel aufgestellt, kann ich als befristet arbeitender Entwickler oder aber al
 
 Ich setze Ihr Linux-Netzwerk oder eine MS-Windows-Umgebung auf – gleich, ob physisch oder virtuell. Ebenso unterstütze ich Sie bei der Errichtung einer neuen oder der Migration einer bestehenden MS-Windows-Domain, virtualisiere Ihre existierende IT-Infrastruktur oder biete Linux-basierte Lösungen an. Durch _Infrastructure as Code_ und Automation minimiere ich die Notwendigkeit, direkt auf physische oder cloud-basierte Systeme zuzugreifen.
 
-Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Blick in mein _Tech Radar_ oder besuchen Sie meinen Blog, um zu erfahren, was mich begeistert.
+Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Blick in mein _Tech Radar_ oder besuchen Sie meinen [Blog]({{ site.data.links.author["blog"] }}), um zu erfahren, was mich begeistert.
 
 <div class="scrolling-wrapper">
   <!-- https://alpinelinux.org/ -->

@@ -5,7 +5,7 @@ permalink: badges/
 lang: en
 ---
 
-A loose collection of badges, certificates, achievements and memberships. Please [contact](/contact) me to receive a full CV.
+A loose collection of badges, certificates, achievements and memberships. Please [contact](/contact) me for a full CV.
 
 <div class="badge-row">
   <div class="column">

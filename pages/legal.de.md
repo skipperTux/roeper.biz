@@ -42,14 +42,14 @@ Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für di
 
 ### Marken
 
-Linux&reg; ist eine eingetragene Marke von Linus Torvalds in den USA und anderen Ländern. The Linux Foundation&reg; ist eine eingetragene Marke der Linux Foundation in den Vereinigten Staaten und/oder anderen Ländern. Microsoft&reg; und Windows&reg; sind entweder eingetragene Marken oder Marken der Microsoft Corporation in den Vereinigten Staaten und/oder anderen Ländern. SAP und andere Produkte und Dienstleistungen von SAP sowie die dazugehörigen Logos sind Marken oder eingetragene Marken der SAP SE in Deutschland und anderen Ländern. Oracle und Java sind eingetragene Marken von Oracle und/oder Tochtergesellschaften. Raspberry Pi ist eine Marke der Raspberry Pi Foundation.<br/>
+Linux&reg; ist eine eingetragene Marke von Linus Torvalds in den USA und anderen Ländern. The Linux Foundation&reg; ist eine eingetragene Marke der Linux Foundation in den Vereinigten Staaten und/oder anderen Ländern. Microsoft&reg; und Windows&reg; sind entweder eingetragene Marken oder Marken der Microsoft Corporation in den Vereinigten Staaten und/oder anderen Ländern. Oracle und Java sind eingetragene Marken von Oracle und/oder Tochtergesellschaften. Raspberry Pi ist eine Marke der Raspberry Pi Foundation. SAP und andere Produkte und Dienstleistungen von SAP sowie die dazugehörigen Logos sind Marken oder eingetragene Marken der SAP SE in Deutschland und anderen Ländern.<br/>
 Alle weiteren Produktnamen, Logos und Marken sind in den meisten Fällen auch eingetragene Marken der jeweiligen Inhaber und unterliegen als solche den gesetzlichen Bestimmungen.
 
 Die Verwendung dieser Namen, Logos und Marken bedeutet keine Empfehlung oder Assoziation.
 
 ### Lizenz
 
-Falls nicht anders angegeben, sind Artikel und Veröffentlichungen lizenziert unter einer [Creative Commons Namensnennung 4.0 International Lizenz]({{ site.data.links.creativeCommonsLicense[site.active_lang] }}), und Source Code ist lizenziert unter einer [BSD-new License (3-clause BSD)](/license).
+Falls nicht anders angegeben, sind Artikel und Veröffentlichungen unter einer [Creative Commons Namensnennung 4.0 International Lizenz]({{ site.data.links.creativeCommonsLicense[site.active_lang] }}) lizenziert, Source Code unter einer [BSD-new License (3-clause BSD)](/license).
 
 ### Allgemeine Geschäftsbedingungen
 
