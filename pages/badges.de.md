@@ -38,7 +38,7 @@ Eine lose Sammlung von Zertifikaten, Mitgliedschaften und Bagdes. Bitte [kontakt
   </div>
   <div class="column">
     <a class="img-link" href="{{ site.data.links.linuxFoundationEvents }}">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/hdr_lceucoeu14.png" alt="Logos LinuxCon + CloudOpen + ELC Europe 2014" title="LinuxCon + CloudOpen + ELC Europe 2014 im Oktober 2014" />
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/LinuxConCloudOpenELC2014.logo.png" alt="Logos LinuxCon + CloudOpen + ELC Europe 2014" title="LinuxCon + CloudOpen + ELC Europe 2014 im Oktober 2014" />
     </a>
   </div>
 </div>
@@ -51,7 +51,7 @@ Eine lose Sammlung von Zertifikaten, Mitgliedschaften und Bagdes. Bitte [kontakt
   </div>
   <div class="column">
     <a class="img-link" href="{{ site.data.links.linuxFoundation }}">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/LF_logo_NEW_H_W.png" style="background-color:#0a3b61;" alt="Logo The Linux Foundation" title="The Linux Foundation&reg; Individual Supporter seit dem 4. Mai 2014" />
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/TheLinuxFoundation.logo.png" style="background-color:#0a3b61;" alt="Logo The Linux Foundation" title="The Linux Foundation&reg; Individual Supporter seit dem 4. Mai 2014" />
     </a>
   </div>
   <div class="column">
