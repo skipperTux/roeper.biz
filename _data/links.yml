@@ -1,14 +1,14 @@
 # blog
 blog:
 # generic
-  sap:                   http://www.sap.com/
+  sap:                   https://www.sap.com/
 # Hello, World!
   googleSmartGlasses:    https://www.x.company/glass/
   helloWorld:            http://helloworldcollection.de/
-  jekyll:                http://jekyllrb.com/
+  jekyll:                https://jekyllrb.com/
   jekyll-poole:          http://getpoole.com/
-  jekyll-polyglot:       http://polyglot.untra.io/
-  cnx:                   http://cnx.de/
+  jekyll-polyglot:       https://polyglot.untra.io/
+  cnx:                   https://cnx.de/
   texterei:              http://www.texterei.net/
   svenStrasenLinkedIn:   https://de.linkedin.com/in/pd-dr-sven-strasen-427a4b4a
 
@@ -71,10 +71,10 @@ linuxFoundation:         https://www.linuxfoundation.org/
 # contact
 author:
   home:
-    de:                  http://roeper.biz/de/
-    en:                  http://roeper.biz/
+    de:                  https://roeper.biz/de/
+    en:                  https://roeper.biz/
   position:              https://www.openstreetmap.org/?mlat=50.77295&mlon=6.09684
-  blog:                  http://roeper.io/
+  blog:                  https://roeper.biz/
   linkedIn:
     de:                  https://www.linkedin.com/in/roeperdotbiz/de
     en:                  https://www.linkedin.com/in/roeperdotbiz
@@ -89,9 +89,7 @@ creativeCommonsLicense:
 gdpr:
   de:                    https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02016R0679-20160504
   en:                    https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02016R0679-20160504
-germanTMG:               http://www.gesetze-im-internet.de/tmg/
-germanBDSG:              http://www.gesetze-im-internet.de/bdsg_1990/
-germanTMG2_5:            http://www.gesetze-im-internet.de/tmg/__5.html
+germanTMG2_5:            https://www.gesetze-im-internet.de/tmg/__5.html
 googlePrivacyPolicy:     https://policies.google.com/privacy
 googleWebFontsFAQ:       https://developers.google.com/fonts/faq
 heiseShariff:            https://www.heise.de/ct/ausgabe/2014-26-Social-Media-Buttons-datenschutzkonform-nutzen-2463330.html
