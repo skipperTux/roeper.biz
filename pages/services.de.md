@@ -7,7 +7,7 @@ lang: de
 
 Was kann ich tun?
 
-Ich unterstütze in allen Bereichen der Softwareentwicklung: Konzeption, Architektur, Technologie oder konkrete Implementierung (aka Programmierung und Codierung). Als Language Agnostiker arbeite ich in C#, Delphi, Go, Java und JavaScript. Gern helfe ich Ihnen beim Aufbau einer Entwicklungsumgebung inkl. Versionskontrollsystem und Build Server. Dabei favorisiere ich Open-Source-Tools, die unter Linux und Windows laufen.
+Ich unterstütze in allen Bereichen der Softwareentwicklung: Konzeption, Architektur, Technologie oder konkrete Implementierung (aka Programmierung und Codierung). Als _Language Agnostiker_ arbeite ich in C#, Delphi, Go, Java und JavaScript. Gern helfe ich Ihnen beim Aufbau einer Entwicklungsumgebung inkl. Versionskontrollsystem und Build Server. Dabei favorisiere ich Open-Source-Tools, die unter Linux und Windows laufen.
 
 Flexibel aufgestellt, kann ich als befristet arbeitender Entwickler oder aber als Projektleiter einspringen. Dies ist besonders interessant, wenn Sie einen kurzfristigen Teamleiter suchen, beispielsweise um ein neues Team aufzubauen oder Engpässe zu überbrücken. Zudem kann ich als Softwareentwickler und Systemadministrator dabei helfen, prozessorientiert die Zusammenarbeit zwischen IT-Betrieb und -Entwicklungsteams zu verbessern (Stichwort _DevOps_).
 
