@@ -20,6 +20,10 @@ Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Bli
   <a class="img-link" href="{{ site.data.links.alpine-linux }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Alpine_Linux.symbol.png" alt="Logo Alpine Linux" title="Alpine Linux - a security-oriented, lightweight Linux distribution">
   </a>
+  <!-- https://developer.android.com/distribute/marketing-tools/brand-guidelines -->
+  <a class="img-link" href="{{ site.data.links.android[site.active_lang] }}">
+    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Android_Robot.symbol.png" alt="Logo Android Robot" title="Android - Das weltweit beliebteste Betriebssystem für Mobilgeräte">
+  </a>
   <!-- https://www.brandeps.com/logo/A/Ansible-01 -->
   <a class="img-link" href="{{ site.data.links.ansible }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Ansible.symbol.png" alt="Logo Ansible" title="Ansible - Simple IT Automation">

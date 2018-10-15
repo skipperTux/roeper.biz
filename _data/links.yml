@@ -17,6 +17,9 @@ webhoster-all-inkl:      https://all-inkl.com/
 
 # services
 alpine-linux:            https://alpinelinux.org/
+android:
+  de:                    https://www.android.com/intl/de_de/
+  en:                    https://www.android.com/
 ansible:                 https://www.ansible.com/
 arch-linux:              https://www.archlinux.org/
 gnu-bash:                https://www.gnu.org/software/bash/
