@@ -96,11 +96,12 @@ default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
 
 exclude:
+  - badge_thumbs.sh
+  - build.sh
+  - clean.sh
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - vendor/
-  - build.sh
-  - clean.sh
-  - serve.sh
   - README.md
+  - serve.sh
+  - vendor/
