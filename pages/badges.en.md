@@ -9,21 +9,39 @@ A loose collection of badges, certificates, achievements and memberships. Please
 
 <div class="badge-row">
   <div class="column">
-    <a class="img-link" href="{{ site.data.links.digitalHUB }}">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/hubaachen_badge_invert.png" alt="Logo digitalHUB Supporter" title="digitalHUB Supporter since January 1, 2018" />
+    <a class="img-link" href="{{ site.baseurl }}/assets/site/badges/2018-12_DevOpsCon2018_Certificate.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2018-12_DevOpsCon2018_Certificate.png" alt="Thumbnail DevOpsCon 2018 Certificate" title="DevOpsCon 2018 in December 2018" />
     </a>
   </div>
 </div>
 
 <div class="badge-row">
   <div class="column">
+    <a class="img-link" href="{{ site.data.links.devOpsGathering2018 }}">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/DevOps-Gathering.logo.png" alt="Logo DevOps Gathering" title="DevOps Gathering 2018 in February 2018" />
+    </a>
+  </div>
+  <div class="column">
+    <a class="img-link" href="{{ site.data.links.digitalHUB }}">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/hubaachen_badge_invert.png" alt="Logo digitalHUB Supporter" title="digitalHUB Supporter since January 1, 2018" />
+    </a>
+  </div>
+  <div class="column">
     <a class="img-link" href="{{ site.baseurl }}/assets/site/badges/2017-12-12_ifb1_ConfirmationOfParticipation.pdf" target="_blank">
       <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2017-12-12_ifb1_ConfirmationOfParticipation.png" alt="Thumbnail OpenSAP Confirmation of Participation" title="In Action - Integration Framework for SAP Business One on December 12, 2017" />
     </a>
   </div>
+</div>
+
+<div class="badge-row">
   <div class="column">
     <a class="img-link" href="{{ site.baseurl }}/assets/site/badges/2017-11_DevOpsCon2017_Zertifikat.pdf" target="_blank">
       <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2017-11_DevOpsCon2017_Zertifikat.png" alt="Thumbnail DevOpsCon 2017 Certificate" title="DevOpsCon 2017 in November 2017" />
+    </a>
+  </div>
+  <div class="column">
+    <a class="img-link" href="{{ site.data.links.devOpsGathering2017 }}">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/DevOps-Gathering.logo.png" alt="Logo DevOps Gathering" title="DevOps Gathering 2017 in March 2017" />
     </a>
   </div>
   <div class="column">
