@@ -9,6 +9,11 @@ Eine lose Sammlung von Zertifikaten, Mitgliedschaften und Bagdes. Bitte [kontakt
 
 <div class="badge-row">
   <div class="column">
+    <a class="img-link" href="{{ site.data.links.devOpsGathering2019 }}">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/DevOps-Gathering.logo.png" alt="Logo DevOps Gathering" title="DevOps Gathering 2019 im März 2018" />
+    </a>
+  </div>
+  <div class="column">
     <a class="img-link" href="{{ site.baseurl }}/assets/site/badges/2018-12_DevOpsCon2018_Certificate.pdf" target="_blank">
       <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2018-12_DevOpsCon2018_Certificate.png" alt="Thumbnail DevOpsCon 2018 Zertifikat" title="DevOpsCon 2018 im Dezember 2018" />
     </a>

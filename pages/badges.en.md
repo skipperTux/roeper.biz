@@ -9,6 +9,11 @@ A loose collection of badges, certificates, achievements and memberships. Please
 
 <div class="badge-row">
   <div class="column">
+    <a class="img-link" href="{{ site.data.links.devOpsGathering2019 }}">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/DevOps-Gathering.logo.png" alt="Logo DevOps Gathering" title="DevOps Gathering 2019 in March 2018" />
+    </a>
+  </div>
+  <div class="column">
     <a class="img-link" href="{{ site.baseurl }}/assets/site/badges/2018-12_DevOpsCon2018_Certificate.pdf" target="_blank">
       <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2018-12_DevOpsCon2018_Certificate.png" alt="Thumbnail DevOpsCon 2018 Certificate" title="DevOpsCon 2018 in December 2018" />
     </a>
