@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+source ./vars
+
+docker run \
+    --publish 4000:4000 \
+    "${ARGS[@]}" \
+    bundle exec jekyll serve --host 0.0.0.0

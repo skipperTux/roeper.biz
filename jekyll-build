@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+source ./vars
+
+docker run \
+    "${ARGS[@]}" \
+    bundle exec jekyll build
