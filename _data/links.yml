@@ -23,6 +23,7 @@ android:
 ansible:                 https://www.ansible.com/
 arch-linux:              https://www.archlinux.org/
 gnu-bash:                https://www.gnu.org/software/bash/
+centos:                  https://centos.org/
 csharp-reference:
   de:                    https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/
   en:                    https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/

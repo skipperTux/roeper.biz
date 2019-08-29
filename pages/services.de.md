@@ -29,12 +29,16 @@ Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Bli
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Ansible.symbol.png" alt="Logo Ansible" title="Ansible - Simple IT Automation">
   </a>
   <!-- https://www.archlinux.org/art/ -->
-  <a class="img-link" href="{{ site.data.links.arch-linux }}">
+  <!-- <a class="img-link" href="{{ site.data.links.arch-linux }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Arch_Linux.symbol.png" alt="Logo Arch Linux" title="Arch Linux - lightweight and flexible Linux distribution">
-  </a>
+  </a> -->
   <!-- https://bashlogo.com/ -->
   <a class="img-link" href="{{ site.data.links.gnu-bash }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Bash.symbol.png" alt="Logo Bash" title="Bash - Bourne Again SHell">
+  </a>
+  <!-- https://wiki.centos.org/ArtWork/Brand/Logo -->
+  <a class="img-link" href="{{ site.data.links.centos }}">
+    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/CentOS.symbol.png" alt="Logo CentOS" title="The CentOS Project - community-driven free software effort focused on delivering a robust open source ecosystem">
   </a>
   <!-- https://chrismckee.co.uk/c-logo-for-stuff-and-stickers/ -->
   <a class="img-link" href="{{ site.data.links.csharp-reference[site.active_lang] }}" alt="Logo C#" title="C# - einfache, moderne, objektorientierte und typsichere Programmiersprache">
@@ -65,9 +69,9 @@ Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Bli
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/GitLab.symbol.png" alt="Logo GitLab" title="GitLab - fully featured platform for software development, security, and operations">
   </a>
   <!-- https://blog.golang.org/go-brand -->
-  <a class="img-link" href="{{ site.data.links.golang }}">
+  <!-- <a class="img-link" href="{{ site.data.links.golang }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Go_Blue.symbol.png" alt="Logo Golang" title="Go - open source programming language">
-  </a>
+  </a> -->
   <!-- http://openjdk.java.net/projects/duke/ -->
   <a class="img-link" href="{{ site.data.links.java[site.active_lang] }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Java_mascot_Duke_waving.symbol.png" alt="Logo Java Duke" title="Java - Programmiersprache und Laufzeitumgebung">
@@ -93,9 +97,9 @@ Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Bli
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Proxmox.symbol.png" alt="Symbol Proxmox" title="Proxmox VE - Open-Source Virtualisierungsplattform">
   </a>
   <!-- https://rancher.com/brand-guidelines/ -->
-  <a class="img-link" href="{{ site.data.links.rancher-labs }}">
+  <!-- <a class="img-link" href="{{ site.data.links.rancher-labs }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Rancher.symbol.png" alt="Logo Rancher Labs" title="Rancher Labs - Enterprise Kubernetes Platform">
-  </a>
+  </a> -->
   <!-- https://www.raspberrypi.org/trademark-rules/ -->
   <a class="img-link" href="{{ site.data.links.raspberry-pi }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Raspberry_Pi.symbol.png" alt="Logo Raspberry Pi" title="Raspberry Pi - A small and affordable computer">
