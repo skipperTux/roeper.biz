@@ -10,7 +10,7 @@ A loose collection of badges, certificates, achievements and memberships. Please
 <div class="badge-row">
   <div class="column">
     <a class="img-link" href="{{ site.data.links.devOpsGathering2019 }}">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/DevOps-Gathering.logo.png" alt="Logo DevOps Gathering" title="DevOps Gathering 2019 in March 2018" />
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/DevOps-Gathering.logo.png" alt="Logo DevOps Gathering" title="DevOps Gathering 2019 in March 2019" />
     </a>
   </div>
   <div class="column">
