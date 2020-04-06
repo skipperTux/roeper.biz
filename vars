@@ -3,7 +3,8 @@ export JEKYLL_VERSION=4.0
 export ARGS=(--rm
     --interactive
     --tty
-    --mount type=bind,source="${PWD}",target='/srv/jekyll'
-    --mount type=bind,source="${PWD}/vendor/bundle",target='/usr/local/bundle'
-    --mount type=bind,source="$(readlink -f ${PWD}/confidential)",target='/srv/jekyll/confidential' \
+    --volume "${PWD}:/srv/jekyll:Z"
+    --volume "${PWD}/vendor/bundle:/usr/local/bundle:Z"
+    --volume "$(readlink -f ${PWD}/confidential):/srv/jekyll/confidential:Z"
+    --userns keep-id
     jekyll/jekyll:"${JEKYLL_VERSION}")

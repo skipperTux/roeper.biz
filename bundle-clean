@@ -2,6 +2,6 @@
 
 source ./vars
 
-docker run \
+podman run \
     "${ARGS[@]}" \
     bundle clean
