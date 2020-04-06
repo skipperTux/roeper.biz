@@ -70,10 +70,13 @@ domainSpecificLang:
 # badges
 devOpsGathering2017:     https://devops-gathering.io/2017/
 devOpsGathering2018:     https://devops-gathering.io/2018/
-devOpsGathering2019:     https://devops-gathering.io/
+devOpsGathering2019:     https://devops-gathering.io/2019/
+devOpsGathering2020:     https://devops-gathering.io/
 digitalHUB:              https://aachen.digital/
+fosdem2020:              https://fosdem.org/2020/
 linuxFoundationEvents:   https://events.linuxfoundation.org/
 linuxFoundation:         https://www.linuxfoundation.org/
+proxTalks2019:           https://proxtalks.de/vortraege-2019/
 
 # contact
 author:

@@ -9,6 +9,29 @@ Eine lose Sammlung von Zertifikaten, Mitgliedschaften und Bagdes. Bitte [kontakt
 
 <div class="badge-row">
   <div class="column">
+    <a class="img-link" href="{{ site.data.links.devOpsGathering2020 }}">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/DevOps-Gathering2020.logo.png" alt="Logo DevOps Gathering" title="DevOps Gathering 2020 im März 2020" />
+    </a>
+  </div>
+  <div class="column">
+    <a class="img-link" href="{{ site.data.links.fosdem2020 }}">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/FOSDEM2020.logo.png" alt="Logo FOSDEM" title="FOSDEM 2020 im Februar 2020" />
+    </a>
+  </div>
+  <div class="column">
+    <a class="img-link" href="{{ site.baseurl }}/assets/site/badges/2019-12_DevOpsCon2019_Certificate.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2019-12_DevOpsCon2019_Certificate.png" alt="Thumbnail DevOpsCon 2019 Zertifikat" title="DevOpsCon 2019 im Dezember 2019" />
+    </a>
+  </div>
+</div>
+
+<div class="badge-row">
+  <div class="column">
+    <a class="img-link" href="{{ site.data.links.proxTalks2019 }}">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/Proxtalks.logo.png" alt="Logo Proxtalks" title="Proxtalks 2019 im Oktober 2019" />
+    </a>
+  </div>
+  <div class="column">
     <a class="img-link" href="{{ site.data.links.devOpsGathering2019 }}">
       <img class="badge" src="{{ site.baseurl }}/assets/site/images/DevOps-Gathering.logo.png" alt="Logo DevOps Gathering" title="DevOps Gathering 2019 im März 2019" />
     </a>
