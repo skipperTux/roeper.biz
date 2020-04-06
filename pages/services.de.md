@@ -32,6 +32,10 @@ Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Bli
   <!-- <a class="img-link" href="{{ site.data.links.arch-linux }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Arch_Linux.symbol.png" alt="Logo Arch Linux" title="Arch Linux - lightweight and flexible Linux distribution">
   </a> -->
+  <!-- https://github.com/campusMVP/dotnetCoreLogoPack -->
+  <a class="img-link" href="{{ site.data.links.asp_net-core[site.active_lang] }}">
+    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/ASP.NET-Core.symbol.png" alt="Logo ASP.NET Core" title="ASP.NET Core - ein plattformübergreifendes Open-Source-Framework zum Erstellen moderner, cloudbasierter Web-Apps">
+  </a>
   <!-- https://bashlogo.com/ -->
   <a class="img-link" href="{{ site.data.links.gnu-bash }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Bash.symbol.png" alt="Logo Bash" title="Bash - Bourne Again SHell">
@@ -73,9 +77,9 @@ Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Bli
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Go_Blue.symbol.png" alt="Logo Golang" title="Go - open source programming language">
   </a> -->
   <!-- http://openjdk.java.net/projects/duke/ -->
-  <a class="img-link" href="{{ site.data.links.java[site.active_lang] }}">
+  <!-- <a class="img-link" href="{{ site.data.links.java[site.active_lang] }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Java_mascot_Duke_waving.symbol.png" alt="Logo Java Duke" title="Java - Programmiersprache und Laufzeitumgebung">
-  </a>
+  </a> -->
   <!-- https://github.com/voodootikigod/logo.js/ -->
   <a class="img-link" href="{{ site.data.links.javascript[site.active_lang] }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/js.symbol.png" alt="Logo JavaScript" title="JavaScript - leichtgewichtige, interpretierte oder JIT-übersetzte Sprache">
@@ -84,9 +88,17 @@ Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Bli
   <a class="img-link" href="{{ site.data.links.linux-kernel }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Linux_Penguin.symbol.png" alt="Logo Tux" title="The Linux Kernel Archives">
   </a>
+  <!-- https://neosmart.net/blog/2019/new-dot-net-standard-framework-logo/ -->
+  <a class="img-link" href="{{ site.data.links.dotnet-core[site.active_lang] }}">
+    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/dotNET-Core.symbol.png" alt="Logo .NET Core" title=".NET - Entwicklerplattform zum Erstellen all Ihrer Apps: Web-Apps, mobile Apps, Desktop-, Gaming-, IoT-Apps und weitere">
+  </a>
   <!-- https://nodejs.org/en/about/resources/ -->
   <a class="img-link" href="{{ site.data.links.node-js[site.active_lang] }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/nodejs.symbol.png" alt="Logo Node.js" title="Node.js - JavaScript-Laufzeitumgebung, die auf Chromes V8 JavaScript-Engine basiert">
+  </a>
+  <!-- https://github.com/containers/podman.io -->
+  <a class="img-link" href="{{ site.data.links.podman }}">
+    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Podman.symbol.png" alt="Logo Podman" title="Podman - a daemonless container engine for developing, managing, and running OCI Containers on your Linux">
   </a>
   <!-- https://github.com/PowerShell/PowerShell -->
   <a class="img-link" href="{{ site.data.links.powershell[site.active_lang] }}">
@@ -107,6 +119,10 @@ Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Bli
   <!-- https://www.terraform.io/logos.html -->
   <a class="img-link" href="{{ site.data.links.hashicorp-terraform }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Terraform.symbol.png" alt="Logo Terraform" title="Terraform - Write, Plan, and Create Infrastructure as Code">
+  </a>
+  <!-- https://www.hashicorp.com/brand -->
+  <a class="img-link" href="{{ site.data.links.hashicorp-vagrant }}">
+    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Vagrant.symbol.png" alt="Logo Vagrant" title="Vagrant - a tool for building and managing virtual machine environments in a single workflow">
   </a>
   <!-- https://www.brandeps.com/logo/W/Windows-01 -->
   <a class="img-link" href="{{ site.data.links.windows-server[site.active_lang] }}">

@@ -22,6 +22,9 @@ android:
   en:                    https://www.android.com/
 ansible:                 https://www.ansible.com/
 arch-linux:              https://www.archlinux.org/
+asp_net-core:
+  de:                    https://docs.microsoft.com/de-de/aspnet/core/?view=aspnetcore-3.1
+  en:                    https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1
 gnu-bash:                https://www.gnu.org/software/bash/
 centos:                  https://centos.org/
 csharp-reference:
@@ -31,6 +34,9 @@ debian:
   de:                    https://www.debian.org/index.de.html
   en:                    https://www.debian.org/
 docker:                  https://www.docker.com/
+dotnet-core:
+  de:                    https://docs.microsoft.com/de-de/dotnet/
+  en:                    https://docs.microsoft.com/en-us/dotnet/
 fedora:
   de:                    https://getfedora.org/de/
   en:                    https://getfedora.org/
@@ -48,6 +54,7 @@ linux-kernel:            https://www.kernel.org/
 node-js:
   de:                    https://nodejs.org/de/
   en:                    https://nodejs.org/
+podman:                  https://podman.io/
 powershell:
   de:                    https://docs.microsoft.com/de-de/powershell/
   en:                    https://docs.microsoft.com/en-us/powershell/
@@ -57,6 +64,7 @@ proxmox-ve:
 rancher-labs:            https://rancher.com/
 raspberry-pi:            http://www.raspberrypi.org/
 hashicorp-terraform:     https://www.terraform.io/
+hashicorp-vagrant:       https://www.vagrantup.com/
 windows-server:
   de:                    https://www.microsoft.com/de-de/cloud-platform/windows-server
   en:                    https://www.microsoft.com/en-us/cloud-platform/windows-server
