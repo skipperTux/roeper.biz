@@ -97,11 +97,15 @@ exclude_from_localization: ["javascript", "images", "css"]
 
 exclude:
   - badge_thumbs.sh
-  - build.sh
-  - clean.sh
+  - bundle-clean
+  - bundle-install
+  - bundle-update
   - Gemfile
   - Gemfile.lock
-  - node_modules
   - README.md
   - serve.sh
   - vendor/
+  - jekyll-build
+  - jekyll-clean
+  - jekyll-serve
+  - vars

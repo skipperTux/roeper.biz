@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+source ./vars
+
+podman run \
+    "${ARGS[@]}" \
+    bundle install

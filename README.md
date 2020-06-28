@@ -7,6 +7,10 @@ Website for Christoph Roeper - roeper.biz
 ## Build Instructions
 
 ```bash
+bundle-install  # Install gems
+```
+
+```bash
 bundle-clean  # Clean up unused gems
 ```
 
