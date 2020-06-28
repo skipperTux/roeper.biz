@@ -19,6 +19,10 @@ Position (WGS84)
 Email
 : <a href="mailto:{{ site.author["email"] }}">{{ site.author["email"] }}</a>
 
+GnuPG Fingerprint
+: <span class="stress">{{ site.author["gnupg_fingerprint"] }}</span><br/>
+GnuPG public key on demand.
+
 Phone
 : {{ site.author["phone"] }}
 
