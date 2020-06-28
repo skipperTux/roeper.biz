@@ -63,7 +63,11 @@ proxmox-ve:
   en:                    https://www.proxmox.com/en/proxmox-ve
 rancher-labs:            https://rancher.com/
 raspberry-pi:            http://www.raspberrypi.org/
+redhat:
+  de:                    https://www.redhat.com/de
+  en:                    https://www.redhat.com/
 hashicorp-terraform:     https://www.terraform.io/
+ubuntu:                  https://ubuntu.com/
 hashicorp-vagrant:       https://www.vagrantup.com/
 windows-server:
   de:                    https://www.microsoft.com/de-de/cloud-platform/windows-server

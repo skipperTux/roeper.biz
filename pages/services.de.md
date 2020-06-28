@@ -81,9 +81,9 @@ Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Bli
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Java_mascot_Duke_waving.symbol.png" alt="Logo Java Duke" title="Java - Programmiersprache und Laufzeitumgebung">
   </a> -->
   <!-- https://github.com/voodootikigod/logo.js/ -->
-  <a class="img-link" href="{{ site.data.links.javascript[site.active_lang] }}">
+  <!-- <a class="img-link" href="{{ site.data.links.javascript[site.active_lang] }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/js.symbol.png" alt="Logo JavaScript" title="JavaScript - leichtgewichtige, interpretierte oder JIT-übersetzte Sprache">
-  </a>
+  </a> -->
   <!-- http://isc.tamu.edu/~lewing/linux/ -->
   <a class="img-link" href="{{ site.data.links.linux-kernel }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Linux_Penguin.symbol.png" alt="Logo Tux" title="The Linux Kernel Archives">
@@ -92,13 +92,17 @@ Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Bli
   <a class="img-link" href="{{ site.data.links.dotnet-core[site.active_lang] }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/dotNET-Core.symbol.png" alt="Logo .NET Core" title=".NET - Entwicklerplattform zum Erstellen all Ihrer Apps: Web-Apps, mobile Apps, Desktop-, Gaming-, IoT-Apps und weitere">
   </a>
+  <!-- https://neosmart.net/blog/2019/new-dot-net-standard-framework-logo/ -->
+  <a class="img-link" href="{{ site.data.links.dotnet-core[site.active_lang] }}">
+    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/dotNET-Standard.symbol.png" alt="Logo .NET Standard" title=".NET - Entwicklerplattform zum Erstellen all Ihrer Apps: Web-Apps, mobile Apps, Desktop-, Gaming-, IoT-Apps und weitere">
+  </a>
   <!-- https://nodejs.org/en/about/resources/ -->
   <a class="img-link" href="{{ site.data.links.node-js[site.active_lang] }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/nodejs.symbol.png" alt="Logo Node.js" title="Node.js - JavaScript-Laufzeitumgebung, die auf Chromes V8 JavaScript-Engine basiert">
   </a>
   <!-- https://github.com/containers/podman.io -->
   <a class="img-link" href="{{ site.data.links.podman }}">
-    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Podman.symbol.png" alt="Logo Podman" title="Podman - a daemonless container engine for developing, managing, and running OCI Containers on your Linux">
+    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Podman.symbol.png" alt="Logo Podman" title="Podman - a daemonless container engine for developing, managing, and running OCI Containers on Linux">
   </a>
   <!-- https://github.com/PowerShell/PowerShell -->
   <a class="img-link" href="{{ site.data.links.powershell[site.active_lang] }}">
@@ -116,9 +120,17 @@ Am besten bin ich, wenn ich mit Leidenschaft arbeiten kann. Werfen Sie einen Bli
   <a class="img-link" href="{{ site.data.links.raspberry-pi }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Raspberry_Pi.symbol.png" alt="Logo Raspberry Pi" title="Raspberry Pi - A small and affordable computer">
   </a>
+  <!-- https://www.redhat.com/en/about/brand/standards/logo -->
+  <a class="img-link" href="{{ site.data.links.redhat[site.active_lang] }}">
+    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Red-Hat.symbol.png" alt="Logo Red Hat" title="Red Hat - Open Source-Technologien für Unternehmen">
+  </a>
   <!-- https://www.terraform.io/logos.html -->
-  <a class="img-link" href="{{ site.data.links.hashicorp-terraform }}">
+  <!-- <a class="img-link" href="{{ site.data.links.hashicorp-terraform }}">
     <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Terraform.symbol.png" alt="Logo Terraform" title="Terraform - Write, Plan, and Create Infrastructure as Code">
+  </a> -->
+  <!-- https://design.ubuntu.com/brand/ubuntu-logo/ -->
+  <a class="img-link" href="{{ site.data.links.ubuntu }}">
+    <img class="grayscale" src="{{ site.baseurl }}/assets/site/images/Ubuntu.symbol.png" alt="Logo Ubuntu" title="Ubuntu - The leading operating system for PCs, IoT devices, servers and the cloud">
   </a>
   <!-- https://www.hashicorp.com/brand -->
   <a class="img-link" href="{{ site.data.links.hashicorp-vagrant }}">
