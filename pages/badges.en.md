@@ -9,6 +9,14 @@ A loose collection of badges, certificates, achievements and memberships. Please
 
 <div class="badge-row">
   <div class="column">
+    <a class="img-link" href="{{ site.baseurl }}/assets/site/badges/2020-07_IHK-Aachen_Ehrenurkunde-25J.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2020-07_IHK-Aachen_Ehrenurkunde-25J.png" alt="Thumbnail IHK Aachen Certificate of Honour" title="IHK Aachen Certificate of Honour 25 years in July 2020" />
+    </a>
+  </div>
+</div>
+
+<div class="badge-row">
+  <div class="column">
     <a class="img-link" href="{{ site.data.links.devOpsGathering2020 }}">
       <img class="badge" src="{{ site.baseurl }}/assets/site/images/DevOps-Gathering2020.logo.png" alt="Logo DevOps Gathering" title="DevOps Gathering 2020 in March 2020" />
     </a>
