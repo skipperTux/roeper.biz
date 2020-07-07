@@ -100,7 +100,7 @@ A loose collection of badges, certificates, achievements and memberships. Please
 <div class="badge-row">
   <div class="column">
     <a class="img-link" href="{{ site.data.links.linuxFoundation }}">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/TheLinuxFoundation.logo.png" style="background-color:#0a3b61;" alt="Logo The Linux Foundation" title="The Linux Foundation&reg; Individual Supporter since May 4, 2014" />
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/TheLinuxFoundation.logo.png" alt="Logo The Linux Foundation" title="The Linux Foundation&reg; Individual Supporter since May 4, 2014" />
     </a>
   </div>
   <div class="column">

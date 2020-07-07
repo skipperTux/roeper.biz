@@ -100,7 +100,7 @@ Eine lose Sammlung von Zertifikaten, Mitgliedschaften und Bagdes. Bitte [kontakt
 <div class="badge-row">
   <div class="column">
     <a class="img-link" href="{{ site.data.links.linuxFoundation }}">
-      <img class="badge" src="{{ site.baseurl }}/assets/site/images/TheLinuxFoundation.logo.png" style="background-color:#0a3b61;" alt="Logo The Linux Foundation" title="The Linux Foundation&reg; Individual Supporter seit dem 4. Mai 2014" />
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/TheLinuxFoundation.logo.png" alt="Logo The Linux Foundation" title="The Linux Foundation&reg; Individual Supporter seit dem 4. Mai 2014" />
     </a>
   </div>
   <div class="column">
