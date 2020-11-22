@@ -2,7 +2,7 @@
 Website for Christoph Roeper - roeper.biz
 
 ## Dependencies
-[Docker](https://www.docker.com/)
+[Podman](https://podman.io/)
 
 ## Build Instructions
 
