@@ -1,5 +1,8 @@
 #!/bin/bash
 
+red=`tput setaf 196`
+reset=`tput sgr0`
+dqt='"'
 project_base=${2:-public}
 
 if [ "${project_base}" = "confidential" ]; then
@@ -10,7 +13,11 @@ fi
 
 badge_path="${project_base_path}/badges"
 thumbs_path="${project_base_path}/images/thumbnails"
-infile="${1}"
-outfile="${infile%.*}.png"
+infile="${badge_path}/${1}"
+outfile="${thumbs_path}/${1%.*}.png"
 
-convert -thumbnail 160x -background white -alpha remove "${badge_path}/${infile}"[0] "${thumbs_path}/${outfile}"
+if [ -f "${infile}" ]; then
+  convert -thumbnail 160x -background white -alpha remove "${infile}"[0] "${outfile}"
+else
+  echo "${dqt}${infile}${dqt} ${red}does not exist.${reset}"
+fi
