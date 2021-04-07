@@ -9,6 +9,11 @@ Eine lose Sammlung von Zertifikaten, Mitgliedschaften und Bagdes. Bitte [kontakt
 
 <div class="badge-row">
   <div class="column">
+    <a class="img-link" href="{{ site.baseurl }}/assets/site/badges/2020-12_DevOpsCon_Munich_2020_Certificate.pdf" target="_blank">
+      <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2020-12_DevOpsCon_Munich_2020_Certificate.png" alt="Thumbnail DevOpsCon 2020 Zertifikat" title="DevOpsCon 2020 im Dezember 2020" />
+    </a>
+  </div>
+  <div class="column">
     <a class="img-link" href="{{ site.baseurl }}/assets/site/badges/2020-07_IHK-Aachen_Ehrenurkunde-25J.pdf" target="_blank">
       <img class="badge" src="{{ site.baseurl }}/assets/site/images/thumbnails/2020-07_IHK-Aachen_Ehrenurkunde-25J.png" alt="Thumbnail IHK Aachen Ehrenurkunde" title="IHK Aachen Ehrenurkunde 25 Jahre im Juli 2020" />
     </a>
