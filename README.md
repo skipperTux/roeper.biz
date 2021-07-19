@@ -15,7 +15,7 @@ bundle-clean  # Clean up unused gems
 ```
 
 ```bash
-bundle-clean  # Update gems to the latest available versions
+bundle-update  # Update gems to the latest available versions
 ```
 
 ```bash
